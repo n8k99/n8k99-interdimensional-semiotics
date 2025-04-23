@@ -12,7 +12,7 @@ tags:
   - "#cognitive-survival"
 ---
 # README: Interdimensional Semiotics
-- [ ] publish as public repo ⏳ 2025-04-21 
+- [x] publish as public repo ⏳ 2025-04-21 ✅ 2025-04-22
 ## Introduction
 
 This document defines the foundational field of **Interdimensional Semiotics** — the study of how meaning, identity, symbol, and memory persist, mutate, and survive as realities fracture, evolve, and transcend traditional cosmic structure. It is the conceptual and philosophical counterpart to the technical mapping work of the Cosmic Index Format (CIF). While CIF tracks position and drift, Interdimensional Semiotics tracks the survival and mutation of meaning itself.

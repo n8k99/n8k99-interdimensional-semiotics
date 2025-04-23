@@ -1,7 +1,7 @@
 ## Reading List
 ### Round 1
 **Semiotics / Meaning Systems:**
-- [ ] _[["Course in General Linguistics"_ — Ferdinand de Saussure]]  #ReadingList
+- [ ]  _[["Course in General Linguistics"_ — Ferdinand de Saussure]]  #ReadingList
     (Birthplace of semiotics. Understand sign, signifier, signified.)
 - [ ] _"Mythologies"_ — Roland Barthes  #ReadingList
     (Symbol systems in culture. How meaning mutates socially.)
