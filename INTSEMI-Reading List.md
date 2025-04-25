@@ -1,3 +1,6 @@
+Lifestage: 🌱 Seed
+---
+---
 ## Reading List
 ### Round 1
 **Semiotics / Meaning Systems:**

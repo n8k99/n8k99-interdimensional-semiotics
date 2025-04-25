@@ -4,6 +4,7 @@ Date Updated: 2025-04-22
 tags:
   - IntSemi
   - PiEatingContest
+Lifestage: 🌱 Seed
   - AcademicResearch
 ---
 [[Academic Outline]]

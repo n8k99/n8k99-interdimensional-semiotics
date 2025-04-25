@@ -9,6 +9,7 @@ tags:
   - "#symbolic-drift"
   - "#CIF"
   - "#interdimensional"
+Lifestage: 🌱 Seed
   - "#cognitive-survival"
 ---
 # README: Interdimensional Semiotics
