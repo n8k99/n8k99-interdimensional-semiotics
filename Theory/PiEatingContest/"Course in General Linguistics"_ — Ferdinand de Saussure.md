@@ -1,3 +1,12 @@
+---
+dateCreated: 2025-04-21
+Date Updated: 2025-04-22
+tags:
+  - IntSemi
+  - PiEatingContest
+  - AcademicResearch
+---
+[[Academic Outline]]
 ```
 Sausasure was among the first to see that language is a self-contained system whose interdependent parts function and acquire value through their relationship to the whole. 
 

@@ -1,3 +1,15 @@
+---
+Date Created: 2025-04-21
+Date Updated: 2025-04-22
+T.A.S.K.S: Doctorate Level Research
+tags:
+  - IntSemi
+  - CIF
+  - interdimensional
+  - semiotics
+  - Abstract
+---
+
 **Interdimensional Semiotics — Academic Outline**
 
 **Core Principles:**
@@ -25,3 +37,5 @@
 - **Hypergraph frameworks** for multi-reality narrative entanglement.
 
 [[INTSEMI-Reading List]]
+[[Hemm Space]]
+
