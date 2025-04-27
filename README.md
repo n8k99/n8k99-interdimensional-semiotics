@@ -1,6 +1,6 @@
 ---
 dateCreated: 2025-04-21
-T.A.S.K.S: Doctorate Level Research
+T.A.S.K.S.:: Doctorate Level Research
 tags:
   - "#semiotics"
   - "#multiverse"
