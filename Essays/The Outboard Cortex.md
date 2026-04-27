@@ -25,6 +25,7 @@ informs:
 sister_essays:
   - "[[Revolting Tinkerbell]]"
   - "[[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]"
+  - "[[Cosmological Substrate and the Failed Test of General Everything Theory]]"
 created: "[[2026-04-25]]"
 ---
 

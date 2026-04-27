@@ -38,6 +38,7 @@ concepts:
 sister_essays:
   - "[[Revolting Tinkerbell]]"
   - "[[The Outboard Cortex]]"
+  - "[[Cosmological Substrate and the Failed Test of General Everything Theory]]"
 informs:
   - "[[Interdimensional Semiotics - Academic Field Summary]]"
 created: "[[2026-04-26]]"

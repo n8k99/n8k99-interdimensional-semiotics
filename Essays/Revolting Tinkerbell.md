@@ -23,6 +23,7 @@ concepts:
 sister_essays:
   - "[[The Outboard Cortex]]"
   - "[[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]"
+  - "[[Cosmological Substrate and the Failed Test of General Everything Theory]]"
 ---
 
 # Revolting Tinkerbell
