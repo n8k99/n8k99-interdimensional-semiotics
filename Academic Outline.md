@@ -17,7 +17,7 @@ tags:
   - field-overview
 ---
 
-# Interdimensional Semiotics — Academic Outline
+#*Interdimensional Semiotics — Academic Outline
 
 > Originally drafted 2025-04-21/22 as the first outline of the field, in the immediate week after the field's name was generated. Brought into the vault unchanged in body so the early framing is preserved as the vault evolves the field forward.
 
