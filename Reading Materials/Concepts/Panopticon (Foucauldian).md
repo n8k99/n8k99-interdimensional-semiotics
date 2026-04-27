@@ -1,5 +1,10 @@
 ---
-title: "Panopticon"
+title: "Panopticon (Foucauldian)"
+aliases:
+  - "Foucauldian Panopticon"
+  - "Bentham's Panopticon"
+  - "panoptic"
+  - "panopticism"
 type: "[[Concept]]"
 domain: "[[The Commons]]"
 Lifestage: "🌱 Seed"
@@ -10,6 +15,7 @@ related:
   - "[[Discourse]]"
   - "[[Self-Reference]]"
   - "[[Naturalization]]"
+disambiguation: "Not to be confused with [[Panopticon]] — the Orbis Grand Epic of Eternal Observation, which borrows Foucault's name for a worldbuilding observational-mode concept. This file treats Foucault's reading of Bentham's original architectural-and-disciplinary apparatus."
 emerged_in:
   - "[[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]"
 tags:
@@ -21,9 +27,11 @@ tags:
   - to-develop
 ---
 
-# Panopticon
+# Panopticon (Foucauldian)
 
-> **Stub.** Foucauldian concept (originally Bentham's architectural design) brought into the vault as part of the third IntSem essay's anchoring pass.
+> **Disambiguation.** This file treats **Foucault's reading of Bentham's architectural design** in *Discipline and Punish*. For the Orbis worldbuilding **Grand Epic of Eternal Observation** (which borrows the name in a different register), see [[Panopticon]]. Both concepts share a name and a thematic resonance around totalizing observation, but operate in different domains and at different scales — the Orbis version cosmic-mythic, this one institutional-disciplinary.
+
+> **Stub.** Foucauldian concept brought into the vault as part of the third IntSem essay's anchoring pass.
 
 ## Working Definition
 

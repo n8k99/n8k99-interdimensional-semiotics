@@ -25,7 +25,7 @@ concepts:
   - "[[Episteme]]"
   - "[[Discourse]]"
   - "[[Productive Power]]"
-  - "[[Panopticon]]"
+  - "[[Panopticon (Foucauldian)]]"
   - "[[The Repressive Hypothesis]]"
   - "[[The Four Orders of Simulacra]]"
   - "[[Hyperreality]]"
@@ -111,7 +111,7 @@ The argument generalizes. **[[Productive Power|Power is productive]]**, not just
 
 ### Power/knowledge — and the panopticon
 
-In *Discipline and Punish*, Foucault traces the shift from sovereign-power (which displays itself in spectacular punishment of the body) to disciplinary-power (which trains, normalizes, and produces docile-and-useful bodies through continuous low-grade surveillance). The **[[Panopticon|panopticon]]** is his emblematic figure — Bentham's prison design where every cell is visible from a central tower, but the tower's interior is opaque, so the prisoner *cannot tell if they are being watched at any given moment* and therefore behaves *as if always watched*. The watcher need not be present. **The structure produces the self-watching subject** — a [[Self-Reference|self-referential]] formation in the strict Hofstadterian sense, where the watched watches itself watching itself.
+In *Discipline and Punish*, Foucault traces the shift from sovereign-power (which displays itself in spectacular punishment of the body) to disciplinary-power (which trains, normalizes, and produces docile-and-useful bodies through continuous low-grade surveillance). The **[[Panopticon (Foucauldian)|panopticon]]** is his emblematic figure — Bentham's prison design where every cell is visible from a central tower, but the tower's interior is opaque, so the prisoner *cannot tell if they are being watched at any given moment* and therefore behaves *as if always watched*. The watcher need not be present. **The structure produces the self-watching subject** — a [[Self-Reference|self-referential]] formation in the strict Hofstadterian sense, where the watched watches itself watching itself.
 
 The panopticon is not just a prison. It is the structural form of modernity. *Schools, factories, hospitals, barracks, offices, and now data centers* all operate panoptically — producing subjects who internalize surveillance because they cannot rule out that they are being watched. The disciplinary subject is *constituted by* this internalization. The "free" modern citizen is a panoptic effect — and in 2026, the panoptic gaze is increasingly an *algorithmic* gaze whose criteria are opaque even to the system's operators.
 
@@ -312,7 +312,7 @@ The recovery is, in the academic frame's terms, vulgar. *That is the point.* The
 - [[Episteme]] — the period-bound conditions of knowability
 - [[Discourse]] — the productive matrix of speakable positions
 - [[Productive Power]] — Foucault's central inversion: power produces, not just prohibits
-- [[Panopticon]] — the architectural figure of disciplinary-power; the structure that produces self-watching subjects
+- [[Panopticon (Foucauldian)]] — the architectural figure of disciplinary-power; the structure that produces self-watching subjects
 - [[The Repressive Hypothesis]] — the named position Foucault rejects in *History of Sexuality*
 - [[Categorization]] · [[Family Resemblance]] — the cognitive primitives the Borges encyclopedia dramatizes
 - [[Ideology]] · [[Naturalization]] — how discursive cover becomes invisible to those who honor it

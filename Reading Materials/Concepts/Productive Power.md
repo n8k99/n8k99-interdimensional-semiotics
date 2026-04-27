@@ -8,7 +8,7 @@ dateCreated: 2026-04-26
 related:
   - "[[Discourse]]"
   - "[[Episteme]]"
-  - "[[Panopticon]]"
+  - "[[Panopticon (Foucauldian)]]"
   - "[[Naturalization]]"
   - "[[The Repressive Hypothesis]]"
 emerged_in:
