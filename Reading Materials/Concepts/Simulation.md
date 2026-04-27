@@ -1,0 +1,48 @@
+---
+title: "Simulation"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌿 Sapling"
+tags:
+  - interdimensional-semiotics
+  - concept
+---
+
+# Simulation
+
+In [[Baudrillard - Simulacra and Simulation|Baudrillard]]'s *Simulacra and Simulation*, simulation is the process by which signs of the real substitute for the real itself, abolishing the distinction between true and false, original and copy. Baudrillard is careful to distinguish simulation from related concepts: to dissimulate is to pretend not to have what one has, preserving the reality principle; to simulate is to produce signs of something that does not exist, thereby threatening the difference between "real" and "imaginary." A person who feigns illness can simply go back to bed; a person who simulates illness produces real symptoms — and now the question of whether they are "really" ill becomes structurally unanswerable. Simulation does not hide the truth; it renders the very category of truth inoperative.
+
+The concept extends beyond Baudrillard's cultural criticism into the epistemological territory mapped by the rest of the IS reading list. [[Kuhn - Structure of Scientific Revolutions|Kuhn]]'s paradigm-shaped perception means that scientists in different paradigms effectively simulate different realities from the same physical substrate. The paradigm does not merely interpret data — it generates the "data" that confirm it, producing observations that have no existence independent of the framework. [[Feyerabend - Against Method|Feyerabend]]'s argument that theories constitute their own evidence is a form of simulation in precisely Baudrillard's sense: the theory produces signs of the real that substitute for independent access to it.
+
+The deepest implication is ontological rather than merely epistemological. If simulation abolishes the distinction between real and model, then the question "is this simulated?" becomes meaningless — not because everything is real, but because the category "real" has lost its operative force. This is the condition Baudrillard calls [[Hyperreality]].
+
+## Cross-Book Development
+
+Baudrillard's treatment of simulation in *Simulacra and Simulation* (particularly "The Precession of Simulacra" and "The Orders of Simulacra") traces a historical progression. In the first order, images reflect a basic reality — representation is faithful, and the gap between sign and referent is acknowledged. In the second order, images mask and denature a basic reality — representation becomes ideological, concealing what it purports to reveal. In the third order (the current condition), images mask the absence of a basic reality — there is nothing behind the sign, and the sign generates its own referent. The fourth and final stage is pure simulation: images bear no relation to any reality whatsoever. The progression is not one of increasing deception but of the progressive dissolution of the conditions that make deception (and thus truth) possible.
+
+Kuhn's *The Structure of Scientific Revolutions* provides an unintentional account of simulation within scientific practice. Chapter X describes how paradigm shifts produce changes in world-view so total that scientists on opposite sides of a revolution inhabit different perceptual worlds. The mechanism is precisely simulation in Baudrillard's sense: the paradigm generates the observations that confirm it, and these observations are experienced as immediate perceptual facts rather than as model-dependent constructions. Kuhn's account of the duck-rabbit gestalt is the scientific equivalent of Baudrillard's Disneyland: a contained demonstration of how the same substrate can generate mutually exclusive realities, each internally consistent and each experienced as simply "what is there."
+
+Feyerabend's *Against Method* provides the most explicit account of simulation's epistemological mechanics. His concept of [[Natural Interpretation|natural interpretations]] (chapters 6-7) shows precisely how simulation works at the level of individual perception: theoretical commitments are fused with sensation so thoroughly that the resulting "observations" appear to be unmediated contact with reality. The tower argument (chapter 6) is a case study in how a theoretical framework simulates its own evidence: the Aristotelian "observation" that stones fall straight down was not a perception but a simulation — a sign of the real produced by the model and mistaken for the real itself. [[Lakoff - Women Fire and Dangerous Things|Lakoff]]'s ICMs extend this further: if categorization itself is model-dependent, then all perceptual experience is simulation in the broadest sense — the cognitive apparatus generating a coherent "reality" from a substrate that may be organized quite differently.
+
+## Significance for Interdimensional Semiotics
+
+Simulation is the concept that forces [[Interdimensional Semiotics]] to confront its most unsettling question: if every dimension's "reality" is a simulation generated by its semiotic apparatus, then what exactly would interdimensional contact consist of? Not a meeting of realities but an encounter between simulation engines, each producing self-consistent experiential worlds from substrates that may have nothing in common. The IS framework must determine whether simulation is a barrier to cross-dimensional communication (each system trapped in its own self-generated real) or the very medium through which it occurs (simulation as the universal mechanism of semiosis, present in any system complex enough to sustain meaning).
+
+The concept connects to [[The Noosphere]]'s architecture and the question of substrate-independent meaning. If the noosphere is itself a simulation — a self-sustaining semiotic system generating its own reality — then its [[connectomes]] are not representations of an external world but simulations that produce the "world" they appear to describe. Semiotic gravitational mass, in this context, measures not truth-correspondence but simulacral power: the capacity of a sign to sustain a convincing, self-consistent reality. The most massive noospheric structures would be those that simulate most effectively — and the IS question becomes whether such structures can simulate across dimensional boundaries, or whether each dimension's simulation is necessarily sealed.
+
+## In the IS Reading List
+
+- [[Baudrillard - Simulacra and Simulation]] — simulation as the substitution of signs for the real; the four stages of the image; simulation vs. dissimulation; the orders of simulacra as a historical genealogy of simulation
+- [[Kuhn - Structure of Scientific Revolutions]] — paradigms as simulation engines: generating observations that confirm themselves (Chapter X); the duck-rabbit gestalt as localized simulation
+- [[Feyerabend - Against Method]] — natural interpretations as the perceptual mechanism of simulation (chapters 6-7); theories constituting their own evidence (chapters 2-3)
+- [[Lakoff - Women Fire and Dangerous Things]] — ICMs as cognitive simulation: categorization generating perceptual "reality" from model-dependent structures
+
+## Related
+
+- [[Simulacrum]]
+- [[Hyperreality]]
+- [[Paradigm]]
+- [[Representation]]
+- [[Natural Interpretation]]
+- [[Implosion]]
+- [[Normal Science]]
