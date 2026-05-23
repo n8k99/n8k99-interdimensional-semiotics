@@ -32,7 +32,7 @@ tags:
 - **Symbolic Persistence Theory**: Study of which symbols survive transdimensional translation. *(See [[Semiotic Resilience]] for the framework-level treatment.)*
 - **Narrative Drift Models**: How stories, myths, and histories change when crossing between divergent cosmologies. *(See [[Temporal Drift]] for the within-substrate version; [[Symbolic Dissonance]] for between-substrate; [[Narrative Gravity]] for the high-mass-narrative dynamics.)*
 - **Cross-Dimensional Linguistics**: Attempting to model communication frameworks that survive across universes. *(See [[Saussure - Course in General Linguistics]] for the foundational semiotic substrate.)*
-- **Cognitive Anchoring Research**: Studying what mental structures remain stable across different physical/temporal laws. *(See [[Identity Mutation]] for the framework; [[Pattern Recognition Theory of Mind|PRTM]] for the cognitive-substrate basis.)*
+- **Cognitive Anchoring Research**: Studying what mental structures remain stable across different physical/temporal laws. *(See [[Identity Mutation]] for the framework; [[Pattern Recognition|PRTM]] for the cognitive-substrate basis.)*
 
 ## Example Research Questions
 

@@ -358,13 +358,14 @@ MYTHOLOGIES
 13 
  
  
+## The World of Wrestling
 The World of Wrestling 
  
           The grandiloquent truth of gestures on life's great occasions. 
           - Baudelaire  
-The virtue of all-in wrestling is that it is the spectacle of excess. 
-Here we find a grandiloquence which must have been that of 
-ancient theatres. And in fact wrestling is an open-air spectacle, for 
+==The virtue of all-in wrestling is that it is the spectacle of excess.== 
+==Here we find a grandiloquence which must have been that of== 
+==ancient theatres.== And in fact wrestling is an open-air spectacle, for 
 what makes the circus or the arena what they are is not the sky (a 
 romantic value suited rather to fashionable occasions), it is the 
 drenching and vertical quality of the flood of light. Even hidden in 
@@ -398,17 +399,17 @@ match is a story which is constructed before the eyes of the
 spectator; in wrestling, on the contrary, it is each moment which is 
 intelligible, not the passage of time. The spectator is not interested 
 in the rise and fall of fortunes; he expects the transient image of 
-certain passions. Wrestling therefore demands an immediate 
-reading of the juxtaposed meanings, so that there is no need to 
-connect them. The logical conclusion of the contest does not 
+certain passions. ==Wrestling therefore demands an immediate== 
+==reading of the juxtaposed meanings, so that there is no need to== 
+==connect them.== The logical conclusion of the contest does not 
 interest the wrestling-fan, while on the contrary a boxing-match 
 always implies a science of the future. In other words, wrestling is 
 a sum of spectacles, of which no single one is a function: each 
 moment imposes the total knowledge of a passion which rises erect 
 and alone, without ever extending to the crowning moment of a 
 result.  
-Thus the function of the wrestler is not to win; it is to go exactly 
-through the motions which are expected of him. It is said that judo 
+==Thus the function of the wrestler is not to win; it is to go exactly== 
+==through the motions which are expected of him.== It is said that judo 
 contains a hidden symbolic aspect; even in the midst of efficiency, 
 its gestures are measured, precise but restricted, drawn accurately 
 but by a stroke without volume. Wrestling, on the contrary, offers 
@@ -520,16 +521,16 @@ Each moment in wrestling is therefore like an algebra which
 instantaneously unveils the relationship between a cause and its 
 represented effect. Wrestling fans certainly experience a kind of 
 intellectual pleasure in seeing the moral mechanism function so 
-perfectly. Some wrestlers, who are great comedians, entertain as 
-much as a Molière character, because they succeed in imposing an 
-immediate reading of their inner nature: Armand Mazaud, a 
-wrestler of an arrogant and ridiculous character (as one says that 
-Harpagon * is a character), always delights the audience by the 
-mathematical rigour of his transcriptions, carrying the form of his 
-gestures to the furthest reaches of their meaning, and giving to his 
-manner of fighting the kind of vehemence and precision found in a 
-great scholastic disputation, in which what is at stake is at once the 
-triumph of pride and the formal concern with truth.  
+perfectly. ==Some wrestlers, who are great comedians, entertain as== 
+==much as a Molière character, because they succeed in imposing an== 
+==immediate reading of their inner nature: Armand Mazaud, a== 
+==wrestler of an arrogant and ridiculous character (as one says that== 
+==Harpagon * is a character), always delights the audience by the== 
+==mathematical rigour of his transcriptions, carrying the form of his== 
+==gestures to the furthest reaches of their meaning, and giving to his== 
+==manner of fighting the kind of vehemence and precision found in a== 
+==great scholastic disputation, in which what is at stake is at once the== 
+==triumph of pride and the formal concern with truth.==  
 What is thus displayed for the public is the great spectacle of 
 Suffering, Defeat, and Justice. Wrestling presents man's suffering 
 with all the amplification of tragic masks. The wrestler who suffers 
@@ -587,6 +588,9 @@ order to unfold before the eyes of the public a total image of
 Defeat. The flaccidity of tall white bodies which collapse with one 
 blow or crash into the ropes with arms flailing, the inertia of 
 
+> [!note]
+> This is the first instance I have found any external, non-dream state, equation of Wrestling as mathematics.
+
  
 19 
  
@@ -601,12 +605,12 @@ underlined intentions in Roman triumphs. At other times, there is
 another ancient posture which appears in the coupling of the 
 wrestlers, that of the suppliant who, at the mercy of his opponent, 
 on bended knees, his arms raised above his head, is slowly brought 
-down by the vertical pressure of the victor. In wrestling, unlike 
-judo, Defeat is not a conventional sign, abandoned as soon as it is 
-understood; it is not an outcome, but quite the contrary, it is a 
-duration, a display, it takes up the ancient myths of public 
-Suffering and Humiliation: the cross and the pillory. It is as if the 
-wrestler is crucified in broad daylight and in the sight of all. I have 
+down by the vertical pressure of the victor. ==In wrestling, unlike== 
+==judo, Defeat is not a conventional sign, abandoned as soon as it is== 
+==understood; it is not an outcome, but quite the contrary, it is a== 
+==duration, a display, it takes up the ancient myths of public== 
+==Suffering and Humiliation: the cross and the pillory. It is as if the== 
+==wrestler is crucified in broad daylight and in the sight of all.== I have 
 heard it said of a wrestler stretched on the ground 'He is dead, little 
 Jesus, there, on the cross,' and these ironic words revealed the 
 hidden roots of a spectacle which enacts the exact gestures of the 
@@ -693,11 +697,11 @@ the rules, the laws of the genre, the referee's censuring and the
 limits of the ring are abolished, swept away by a triumphant 
 disorder which overflows into the hall and carries off pell-mell 
 wrestlers, seconds, referee and spectators.  
-It has already been noted that in America wrestling represents a 
-sort of mythological fight between Good and Evil (of a 
-quasipolitical nature, the 'bad' wrestler always being supposed to 
-be a Red). The process of creating heroes in French wrestling is 
-very different, being based on ethics and not on politics. What the 
+==It has already been noted that in America wrestling represents a== 
+==sort of mythological fight between Good and Evil (of a== 
+==quasipolitical nature, the 'bad' wrestler always being supposed to== 
+==be a Red). The process of creating heroes in French wrestling is== 
+==very different, being based on ethics and not on politics.== What the 
 public is looking for here is the gradual construction of a highly 
 moral image: that of the perfect 'bastard'. One comes to wrestling 
 in order to attend the continuing adventures of a single major 
@@ -738,13 +742,13 @@ when it is supported by a mathematical justification; contempt is
 then unrestrained. One is no longer dealing with a salaud but with 
 a salope - the verbal gesture of the ultimate degradation.  
 Such a precise finality demands that wrestling should be exactly 
-what the public expects of it. Wrestlers, who are very experienced, 
-know perfectly how to direct the spontaneous episodes of the fight 
-so as to make them conform to the image which the public has of 
-the great legendary themes of its mythology. A wrestler can irritate 
-or disgust, he never disappoints, for he always accomplishes 
-completely, by a progressive solidification of signs, what the 
-public expects of him. In wrestling, nothing exists except in the 
+what the public expects of it. ==Wrestlers, who are very experienced,== 
+==know perfectly how to direct the spontaneous episodes of the fight== 
+==so as to make them conform to the image which the public has of== 
+==the great legendary themes of its mythology. A wrestler can irritate== 
+==or disgust, he never disappoints, for he always accomplishes== 
+==completely, by a progressive solidification of signs, what the== 
+==public expects of him.== In wrestling, nothing exists except in the 
 
  
 23 
@@ -752,14 +756,14 @@ public expects of him. In wrestling, nothing exists except in the
 absolute, there is no symbol, no allusion, everything is presented 
 exhaustively. Leaving nothing in the shade, each action discards all 
 parasitic meanings and ceremonially offers to the public a pure and 
-full signification, rounded like Nature. This grandiloquence is 
-nothing but the popular and age-old image of the perfect 
-intelligibility of reality. What is portrayed by wrestling is therefore 
-an ideal understanding of things; it is the euphoria of men raised 
-for a while above the constitutive ambiguity of everyday situations 
-and placed before the panoramic view of a univocal Nature, in 
-which signs at last correspond to causes, without obstacle, without 
-evasion, without contradiction.  
+full signification, rounded like Nature. ==This grandiloquence is== 
+==nothing but the popular and age-old image of the perfect== 
+==intelligibility of reality. What is portrayed by wrestling is therefore== 
+==an ideal understanding of things; it is the euphoria of men raised== 
+==for a while above the constitutive ambiguity of everyday situations== 
+==and placed before the panoramic view of a univocal Nature, in== 
+==which signs at last correspond to causes, without obstacle, without== 
+==evasion, without contradiction.==  
 When the hero or the villain of the drama, the man who was seen a 
 few minutes earlier possessed by moral rage, magnified into a sort 
 of metaphysical sign, leaves the wrestling hall, impassive, 
@@ -782,6 +786,7 @@ is at last intelligible.
 24 
  
  
+## The Romans in Films
 The Romans in Films 
  
 In Mankiewicz's Julius Caesar, all the characters are wearing 
@@ -815,6 +820,9 @@ aim appear clearly. But this very fringe, when combed on the only
 naturally Latin forehead in the film, that of Marlon Brando, 
 impresses us and does not make us laugh; and it is not impossible 
 that part of the success of this actor in Europe is due to the perfect 
+
+> [!note]
+> It is not too large of a stretch to realize that the political climate in the USA, and perhaps the rest of the world, has turned certain politicians into Wrestlers. Indeed they might have always been held in that view - and thus they imagine they are gods.
 
  
 25 
@@ -870,31 +878,35 @@ It aims at making people understand (which is laudable) but at the
 same time suggests that it is spontaneous (which is cheating); it 
 presents itself at once as intentional and irrepressible, artificial and 
 natural, manufactured and discovered. This can lead us to an ethic 
-of signs. Signs ought to present themselves only in two extreme 
-forms: either openly intellectual and so remote that they are 
-reduced to an algebra, as in the Chinese theatre, where a flag on its 
-own signifies a regiment; or deeply rooted, invented, so to speak, 
-on each occasion, revealing an internal, a hidden facet, and 
-indicative of a moment in time, no longer of a concept (as in the art 
-of Stanislavsky, for instance). But the intermediate sign, the fringe 
-of Roman-ness or the sweating of thought, reveals a degraded 
-spectacle, which is equally afraid of simple reality and of total 
-artifice. For although it is a good thing if a spectacle is created to 
-make the world more explicit, it is both reprehensible and deceitful 
-to confuse the sign with what is signified. And it is a duplicity 
-which is peculiar to bourgeois art: between the intellectual and the 
-visceral sign is hypocritically inserted a hybrid, at once elliptical 
-and pretentious, which is pompously christened 'nature'.  
+of signs. ==Signs ought to present themselves only in two extreme== 
+==forms: either openly intellectual and so remote that they are== 
+==reduced to an algebra, as in the Chinese theatre, where a flag on its== 
+==own signifies a regiment; or deeply rooted, invented, so to speak,== 
+==on each occasion, revealing an internal, a hidden facet, and== 
+==indicative of a moment in time, no longer of a concept (as in the art== 
+==of Stanislavsky, for instance). But the intermediate sign, the fringe== 
+==of Roman-ness or the sweating of thought, reveals a degraded== 
+==spectacle, which is equally afraid of simple reality and of total== 
+==artifice. For although it is a good thing if a spectacle is created to== 
+==make the world more explicit, it is both reprehensible and deceitful== 
+==to confuse the sign with what is signified. And it is a duplicity== 
+==which is peculiar to bourgeois art: between the intellectual and the== 
+==visceral sign is hypocritically inserted a hybrid, at once elliptical== 
+==and pretentious, which is pompously christened 'nature'.==  
  
  
  
  
  
 
+> [!note]
+> Earlier in the essay, it was observed that American faces (and therefore signs) appeared exotic to French eye. Thus it is plausible to understand that these signs are not universal, unless specifically defined as such
+
  
 27 
  
  
+## The Writer on Holiday
 The Writer on Holiday 
  
 Gide was reading Bossuet while going down the Congo. This 
@@ -1022,6 +1034,7 @@ natural as his vestimentary or gustatory functions.
 31 
  
  
+## The 'Blue Blood' Cruise
 The 'Blue Blood' Cruise 
  
 Ever since the Coronation, the French had been pining for fresh 
@@ -1095,6 +1108,7 @@ Juan of Spain is sent to the rescue of Spanish Fascism.
 33 
  
  
+## Blind and Dumb Criticism
 Blind and Dumb Criticism 
  
 Critics (of books or drama) often use two rather singular 
@@ -1170,6 +1184,7 @@ the delightfully 'harmless' confession you make of it.
 35 
  
  
+## Soap-powders and Detergents
 Soap-powders and Detergents 
  
 The first World Detergent Congress (Paris, September 1954) had 
@@ -1260,6 +1275,7 @@ plane of the Anglo-Dutch trust Unilever.
 38 
  
  
+## The Poor and the Proletariat
 The Poor and the Proletariat 
  
 Charlie Chaplin's latest gag has been to transfer half of his Soviet 
@@ -1334,6 +1350,7 @@ revolution in the realm of art.
 40 
  
  
+## Operation Margarine
 Operation Margarine 
  
 To instil into the Established Order the complacent portrayal of its 
@@ -1427,6 +1444,7 @@ in scruples, in revolt, in fights and in solitude.
 43 
  
  
+## Dominici, or the Triumph of Literature
 Dominici, or the Triumph of Literature 
  
 The whole Dominici trial * was enacted according to a certain idea 
@@ -1580,6 +1598,7 @@ I've been there!' Allé = 'gone', allée = a path, but Dominici uses été,
 47 
  
  
+## The Iconography of the Abbé Pierre
 The Iconography of the Abbé Pierre 
  
 The myth of the Abbé Pierre has at its disposal a precious asset: 
@@ -1669,6 +1688,7 @@ of justice.
 50 
  
  
+## Novels and Children
 Novels and Children 
  
 If we are to believe the weekly Elle, which some time ago 
@@ -1760,6 +1780,7 @@ dogma on which it rests.
 53 
  
  
+## Toys
 Toys 
  
 French toys: one could not find a better illustration of the fact that 
@@ -1852,6 +1873,7 @@ they have no posthumous life for the child.
 56 
  
  
+## The Face of Garbo
 The Face of Garbo 
  
 Garbo still belongs to that moment in cinema when capturing the 
@@ -1928,6 +1950,7 @@ substance. The face of Garbo is an Idea, that of Hepburn, an Event.
 58 
  
  
+## Wine and Milk
 Wine and Milk 
  
 Wine is felt by the French nation to be a possession which is its 
@@ -2077,6 +2100,7 @@ expropriation.
 62 
  
  
+## Steak and Chips
 Steak and Chips 
  
 Steak is a part of the same sanguine mythology as wine. It is the 
@@ -2163,6 +2187,7 @@ sign of Frenchness.
 65 
  
  
+## The Nautilus and the Drunken Boat
 The Nautilus and the Drunken Boat 
  
 The work of Jules Verne (whose centenary was recently 
@@ -2268,6 +2293,7 @@ cave to a genuine poetics of exploration.
 68 
  
  
+## The Brain of Einstein
 The Brain of Einstein 
  
 Einstein's brain is a mythical object: paradoxically, the greatest 
@@ -2374,6 +2400,7 @@ Pantagruel II, ch. 8).
 71 
  
  
+## The Jet-man
 The Jet-man 
  
 The jet-man is a jet-pilot. Match has specified that he belongs to a 
@@ -2477,6 +2504,7 @@ as populated with semi-objects.
 74 
  
  
+## The Blue Guide
 The Blue Guide 
  
 The Blue Guide * hardly knows the existence of scenery except 
@@ -2620,6 +2648,7 @@ application of sound principles of order and hierarchy.'
 78 
  
  
+## Ornamental Cookery
 Ornamental Cookery 
  
 The weekly Elle (a real mythological treasure) gives us almost 
@@ -2709,6 +2738,7 @@ they will be able to prepare them.
 81 
  
  
+## Neither-Nor Criticism
 Neither-Nor Criticism 
  
 We were able to read in one of the first numbers of L'Express (the 
@@ -2819,6 +2849,7 @@ new Neither-Nor criticism is one season behind.
 84 
  
  
+## Striptease
 Striptease 
  
 Striptease - at least Parisian striptease - is based on a contradiction: 
@@ -2966,6 +2997,7 @@ this is how, in France, striptease is nationalized.
 88 
  
  
+## The New Citroën
 The New Citroën 
  
 I think that cars today are almost the exact equivalent of the great 
@@ -3066,6 +3098,7 @@ bourgeois advancement.
 91 
  
  
+## Photography and Electoral Appeal
 Photography and Electoral Appeal 
  
 Some candidates for Parliament adorn their electoral prospectus 
@@ -3165,6 +3198,7 @@ hidden interests of Order.
 94 
  
  
+## The Lost Continent
 The Lost Continent 
  
 A film, The Lost Continent, throws a clear light on the current 
@@ -3268,6 +3302,7 @@ Gregorian chant: it is monodic, anyway (the sign of monasticity).
 97 
  
  
+## Plastic
 Plastic 
  
 Despite having names of Greek shepherds (Polystyrene, Polyvinyl, 
@@ -3360,6 +3395,7 @@ beginning to make plastic aortas.
 100 
  
  
+## The Great Family of Man
 The Great Family of Man 
  
 A big exhibition of photographs has been held in Paris, the aim of 
@@ -3476,6 +3512,7 @@ better to defuse them.
 103 
  
  
+## The Lady of the Camellias
 The Lady of the Camellias 
  
 They still perform, in some part of the world or other, The Lady of 
@@ -3600,6 +3637,7 @@ only sends them to sleep.
  
 107 
  
+## Myth Today
 MYTH TODAY 
  
 What is a myth, today? I shall give at the outset a first, very simple 

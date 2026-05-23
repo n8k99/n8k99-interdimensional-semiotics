@@ -16,7 +16,7 @@ reads:
 concepts:
   - "[[The Tinkerbell Rule]]"
   - "[[Reality is What is Left]]"
-  - "[[Pattern Recognition Theory of Mind]]"
+  - "[[Pattern Recognition|Pattern Recognition Theory of Mind]]"
   - "[[The Outboard Cortex]]"
 informs:
   - "[[Modular Fortress]]"
@@ -152,7 +152,7 @@ The image accumulates. The cortex composes with it, or fails to. We watch.
 
 ### Cognitive Architecture (the existing IntSem namespace this essay leans on)
 - [[Pattern Recognition]] — the primitive operation of the cortical hierarchy
-- [[Pattern Recognition Theory of Mind]] — Kurzweil's specific architectural claim
+- [[Pattern Recognition|Pattern Recognition Theory of Mind]] — Kurzweil's specific architectural claim
 - [[Hierarchical Learning]] — how patterns compose into higher patterns
 - [[Extended Cognition]] — the philosophical frame in which "outboard cortex" is coherent
 - [[The Extended Mind]] — Clark and Chalmers's foundational paper on the same

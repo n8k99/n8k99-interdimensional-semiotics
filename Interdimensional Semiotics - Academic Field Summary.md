@@ -157,4 +157,4 @@ This unprecedented blend of fantasy worldbuilding, AI consciousness research, an
 
 *Document prepared as part of the Nebulab project integration, connecting Orbis campaign worldbuilding, T.A.S.K.S. AI development, and Interdimensional Semiotics academic field development.*
 ISDN-Architecture
-![[Interdimensional-Semiotics-Reading-List]]
+*[asset: Interdimensional-Semiotics-Reading-List, pending]*

@@ -23,10 +23,10 @@ To give language first place in the study of speech, we can advance a final argu
 ### 2. Place ofLanguage in the Facts ofSpeech
 In order to separate from the whole of speech the part that belongs to language, we must examine the individual act from which the speaking-circuit can be reconstructed. The act requires the presence of at least two persons; that is the minimum number necessary to complete the circuit. Suppose that two people, A and B, are conversing with each other
 
-![[Screenshot 2025-07-23 at 21.12.32.png]]
+*[asset: Screenshot 2025-07-23 at 21.12.32.png, pending]*
 
 Suppose that the opening of the circuit is in A's brain, where mental facts (concepts) are associated with representations of the linguistic sounds (sound-images) that are used for their expression. A given concept unlocks a corresponding sound-image in the brain this purely *psychological* phenomenon is followed in turn by a *physiological* process the brain transmits an impulse corresponding to the image to the organs used in producing sounds. Then the sound waves travel from the mouth of A to the ear of B a purely *physical* process. Next, the circuit continues in B, but the order is reversed: from the ear to the brain, the physiological transmission of the sound-image; in the brain, the psychological association of the image with the corresponding concept. If B then speaks, the new act will—follow from his brain to A's— exactly the same course as the first act and pass through the same successive phases, which I shall diagram as follows:
-![[Screenshot 2025-07-23 at 21.25.41.png]]
+*[asset: Screenshot 2025-07-23 at 21.25.41.png, pending]*
 The preceding analysis does not purport to be complete. We might also single out the pure acoustical sensation, the identification ofthat sensation with the latent sound-image, the muscular image of phonation, etc. I have included only the elements thought to be essential, but the drawing brings out at a glance the distinction between the physical (sound waves), physiological (phonation and audition), and psychological parts (word-images and concepts). Indeed, we should not fail to note that the word-image stands apart from the sound itself and that it is just as psychological as the concept which is associated with it.
 The circuit that I have outlined can be further divided into:
 - a) an outer part that includes the vibrations of the sounds which travel from the mouth to the ear, and an inner part that includes everything else;

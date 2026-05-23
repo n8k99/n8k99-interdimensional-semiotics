@@ -16,7 +16,7 @@ source: "https://lawsofsoftwareengineering.com/"
 
 # Laws of Software Engineering
 
-A map of 56 principles, laws, and cognitive patterns that shape how software actually gets built. Curated from Dr. Milan Milanović's [Laws of Software Engineering](https://lawsofsoftwareengineering.com/) and seeded into [[IntSem]] as concept notes. Each note has an empty *Significance for IntSem* section ready to be developed — these laws are not just engineering folklore; most of them are semiotic claims about how meaning propagates through substrates.
+A map of 56 principles, laws, and cognitive patterns that shape how software actually gets built. Curated from Dr. Milan Milanović's [Laws of Software Engineering](https://lawsofsoftwareengineering.com/) and seeded into [[Interdimensional Semiotics - Academic Field Summary|IntSem]] as concept notes. Each note has an empty *Significance for IntSem* section ready to be developed — these laws are not just engineering folklore; most of them are semiotic claims about how meaning propagates through substrates.
 
 ## Teams (9)
 

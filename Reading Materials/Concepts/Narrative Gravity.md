@@ -99,7 +99,7 @@ For [[Interdimensional Semiotics|IntSem]] practice, this means the question *wha
 
 ## Significance for Interdimensional Semiotics
 
-Narrative Gravity gives IntSem a precise account of why some [[Tinkerbell Rule|Tinkerbell-objects]] are robust under partial withdrawal of honoring while others evaporate the moment honoring weakens. The robust ones have mass, and the gravity of that mass holds them together during the wobble — adjacent honoring is recruited back by the field-effect. The fragile ones have no mass, no field, no recruitment; honoring withdrawn is honoring lost.
+Narrative Gravity gives IntSem a precise account of why some [[The Tinkerbell Rule|Tinkerbell-objects]] are robust under partial withdrawal of honoring while others evaporate the moment honoring weakens. The robust ones have mass, and the gravity of that mass holds them together during the wobble — adjacent honoring is recruited back by the field-effect. The fragile ones have no mass, no field, no recruitment; honoring withdrawn is honoring lost.
 
 This is consequential for vault-architecture decisions. A persona, a brand, a project name, a methodology — each is a candidate Tinkerbell-object, and the question of whether it is worth investing in is partly the question of whether it can accumulate enough mass to develop a field of its own. The investment heuristic from the [[Semiotic Mass]] computational example — write the persona into enough substrate, with enough invariants, to carry [[Monodromy|monodromy]] across surfaces — is the Narrative Gravity engineering principle stated in the language of the property; the gravity is the operation that the engineering produces.
 
@@ -115,4 +115,4 @@ It also bears on the [[Reality is What is Left]] principle. Reality, in the IntS
 - [[Lindy Effect]] — the temporal corollary: long-survived narratives have generated deep wells and are likely to persist further
 - [[Cohort Reception]] — the cohort-side mechanism that selects which high-mass narrative will frame a given reading
 - [[Pattern Recognition]] — the cognitive mechanism by which cohorts come to expect the high-mass narrative's shape
-- [[Tinkerbell Rule]] · [[Reality is What is Left]] — the two IntSem principles against which Narrative Gravity must be read
+- [[The Tinkerbell Rule|Tinkerbell Rule]] · [[Reality is What is Left]] — the two IntSem principles against which Narrative Gravity must be read
