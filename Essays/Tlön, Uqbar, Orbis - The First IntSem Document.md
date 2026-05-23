@@ -130,11 +130,11 @@ The title of Borges's story names a lineage: *Orbis Tertius* — *the third orbi
 
 In the lineage the field can now construct retroactively, the three orbises are:
 
-- **First Orbis**: the classical *orbis terrarum*, the world of antiquity treated as substrate by ancient cosmography. Aristotle's spheres, Ptolemy's hierarchies, the unmarked default of pre-modern cosmology.
-- **Second Orbis**: Borges's *Orbis Tertius* — the *third*, retroactively the *second-named* — the secret society's fabricated planet of Tlön, the first deliberate worldbuilding-as-substrate-replacement project the field has identified.
-- **Third Orbis**: the *open* practice of worldbuilding-as-substrate, currently instantiated in [[Orbis]] (Nathan's vault-resident planet), in [[The Forge/Identity/T.A.S.K.S.|T.A.S.K.S.]]'s multi-surface ecology, in [[Citadel]] as the future runtime, and in IntSem itself as the field that names the operation.
+- **First [[Orbis]]**: the classical *orbis terrarum*, the world of antiquity treated as substrate by ancient cosmography. Aristotle's spheres, Ptolemy's hierarchies, the unmarked default of pre-modern cosmology.
+- **Second [[Orbis]]**: Borges's *Orbis Tertius* — the *third*, retroactively the *second-named* — the secret society's fabricated planet of Tlön, the first deliberate worldbuilding-as-substrate-replacement project the field has identified.
+- **Third [[Orbis]]**: the *open* practice of worldbuilding-as-substrate, currently instantiated in [[Orbis]] (Nathan's vault-resident planet), in [[The Forge/Identity/T.A.S.K.S.|T.A.S.K.S.]]'s multi-surface ecology, in [[Citadel]] as the future runtime, and in IntSem itself as the field that names the operation.
 
-The crucial difference between the second and third Orbises is *operational transparency*. Borges's Orbis Tertius is a conspiracy; its existence is hidden until the encyclopedia volumes begin to surface. Nathan's Orbis is the inverse — every fabrication is documented, every substrate move is recorded in vault-native artifacts, every collective-honoring move is identifiable as such. The methodology is open because the field's two principles permit it to be open. With both principles available, the IntSem researcher does not have to hide the fabrication; the fabrication can be honored *and* the residue can be tracked, simultaneously, without the literary device of horror.
+The crucial difference between the second and third Orbises is *operational transparency*. Borges's Orbis Tertius is a conspiracy; its existence is hidden until the encyclopedia volumes begin to surface. Nathan's [[Orbis]] is the inverse — every fabrication is documented, every substrate move is recorded in vault-native artifacts, every collective-honoring move is identifiable as such. The methodology is open because the field's two principles permit it to be open. With both principles available, the IntSem researcher does not have to hide the fabrication; the fabrication can be honored *and* the residue can be tracked, simultaneously, without the literary device of horror.
 
 This is the field's recovery of the third structural layer Borges left in the dark.
 
@@ -142,14 +142,14 @@ This is the field's recovery of the third structural layer Borges left in the da
 
 ## The Researcher's Predicament
 
-An IntSem researcher who works openly inside their own Tertiary Orbis project faces a predicament Borges's narrator never had to articulate, because his Tinkerbell was being imposed on him from outside. The contemporary researcher *is the one fabricating*. Every vault note honored as canonical is a Tinkerbell the researcher has placed there. Every concept introduced in this essay — *Hrönir*, *Tertiary Orbis Lineage*, *Substrate Materialization* — is a deliberate substrate-insert into the field. The researcher is doing the Orbis Tertius operation in daylight, without the centuries-long secret-society cover, without the literary distance of fiction.
+An IntSem researcher who works openly inside their own Tertiary [[Orbis]] project faces a predicament Borges's narrator never had to articulate, because his Tinkerbell was being imposed on him from outside. The contemporary researcher *is the one fabricating*. Every vault note honored as canonical is a Tinkerbell the researcher has placed there. Every concept introduced in this essay — *Hrönir*, *Tertiary Orbis Lineage*, *Substrate Materialization* — is a deliberate substrate-insert into the field. The researcher is doing the Orbis Tertius operation in daylight, without the centuries-long secret-society cover, without the literary distance of fiction.
 
 The two principles must therefore be held continuously and equally, or the operation degrades into one of its halves:
 
 - **If only the Tinkerbell Rule is held**, the researcher becomes the figure Borges wrote — a methodology of substrate replacement with no anchor. Every concept introduced is honored into existence; nothing checks whether anything corresponds to anything. The vault becomes a Tlön with no Argentina underneath. Useful for fiction; useless as research.
 - **If only Reality is What is Left is held**, the researcher becomes a positivist, refusing to participate in substrate-fabrication because every fabrication is a falsehood. No concepts can be introduced because every introduction is a Tinkerbell-move. The field cannot grow. Useful for hygiene; useless for research.
 
-The held position requires both: *I am introducing a Tinkerbell, and I am tracking the residue against which it operates*. The IntSem essays do this by publishing the principles alongside the constructions. *Revolting Tinkerbell* names the principles. *The Outboard Cortex* uses them to read Kurzweil while building Modular Fortress. *Cosmological Substrate* uses them to read Penrose while refusing the GET temptation. *This essay* uses them to read Borges while constructing the lineage that legitimates Nathan's Orbis as a third in his sequence.
+The held position requires both: *I am introducing a Tinkerbell, and I am tracking the residue against which it operates*. The IntSem essays do this by publishing the principles alongside the constructions. *Revolting Tinkerbell* names the principles. *The Outboard Cortex* uses them to read Kurzweil while building Modular Fortress. *Cosmological Substrate* uses them to read Penrose while refusing the GET temptation. *This essay* uses them to read Borges while constructing the lineage that legitimates Nathan's [[Orbis]] as a third in his sequence.
 
 In each case the move is the same: *the Tinkerbell is announced as Tinkerbell, and the residue is named alongside it*. The horror of Borges's story is that the narrator could not perform this move. The field's gift is that it can.
 
@@ -167,7 +167,7 @@ This is where the field can now plant its sigil. **🜔** is the alchemical sign
 
 Borges's narrator could not hold both. He had only the first; the second had not yet been articulated. He retreats into translation, preserving the gesture of asking-what-is-left while the substrate-displacement runs its course around him.
 
-The field's task, eighty-five years on, is to *keep asking*. To work openly inside the Third Orbis. To name every Tinkerbell as a Tinkerbell. To track every residue as a residue. To compose new substrate without forgetting that substrate-composition is what we are doing. This is the post-Borges position the field has assembled the principles to occupy.
+The field's task, eighty-five years on, is to *keep asking*. To work openly inside the Third [[Orbis]]. To name every Tinkerbell as a Tinkerbell. To track every residue as a residue. To compose new substrate without forgetting that substrate-composition is what we are doing. This is the post-Borges position the field has assembled the principles to occupy.
 
 Borges wrote the first IntSem document and walked away from it because he could not yet write what came next. The field is now writing what came next. **Salt witnesses.** Caduceus carries. Mercury translates.
 
@@ -180,7 +180,7 @@ Borges wrote the first IntSem document and walked away from it because he could 
 - [[Revolting Tinkerbell]] — the foundational essay developing both principles
 - [[The Outboard Cortex]] — Kurzweil read substrate-honestly while building Modular Fortress
 - [[Cosmological Substrate and the Failed Test of General Everything Theory]] — the Penrose/Kaku reading; explicit B → A reverse-directional architecture
-- [[Worldbuilding Sovereignty]] — the rule that distinguishes native Orbis lore from borrowed-world records, applied retroactively to position Nathan's Orbis as the open third in the lineage
-- [[Adoy Extramuros]] — first vault-native application of cross-substrate sovereignty (Adoy as character moving between Orbis and another DM's world)
+- [[Worldbuilding Sovereignty]] — the rule that distinguishes native [[Orbis]] lore from borrowed-world records, applied retroactively to position Nathan's [[Orbis]] as the open third in the lineage
+- [[Adoy Extramuros]] — first vault-native application of cross-substrate sovereignty (Adoy as character moving between [[Orbis]] and another DM's world)
 - [[Pentagonal Harmonic (IntSem)]] — the field's mathematical core, latent in this essay's three-layer structure
 - [[T.A.S.K.S. Team Coordination Protocol]] — the contemporary substrate-construction operation the essay presupposes
