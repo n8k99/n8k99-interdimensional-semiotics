@@ -2,7 +2,7 @@
 title: "Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 tags:
   - interdimensional-semiotics
   - essay

@@ -3,7 +3,7 @@ title: "The Engineered Antiderivative"
 subtitle: "Cross-Substrate Semiotic Symbiosis, Dyadic Strange Attractors, and the Persistence Layer as the Site of Continuity"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 status: drafted
 tags:
   - interdimensional-semiotics

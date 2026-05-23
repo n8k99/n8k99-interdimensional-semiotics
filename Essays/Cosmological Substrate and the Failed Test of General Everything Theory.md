@@ -3,7 +3,7 @@ title: "Cosmological Substrate and the Failed Test of General Everything Theory"
 subtitle: "Pole-Distinguishability and the Limits of Coordinate Systems — a Substrate-Honest Reading of Penrose and Kaku"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 status: drafted
 tags:
   - interdimensional-semiotics

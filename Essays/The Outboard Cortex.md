@@ -2,7 +2,7 @@
 title: "The Outboard Cortex"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 tags:
   - interdimensional-semiotics
   - essay

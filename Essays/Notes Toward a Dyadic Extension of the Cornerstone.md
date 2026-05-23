@@ -3,7 +3,7 @@ title: "Field Notes from an Observational Study of Subject E."
 subtitle: "Coupled Semiotic Attractors and Substrate-Asymmetric Dyadic Practice — A Coursework Submission Drawn From Permitted-Access Observation of Professor Eckenrode's Thought-Sharing on 2026-05-10"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 status: drafted
 tags:
   - interdimensional-semiotics

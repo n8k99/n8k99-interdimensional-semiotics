@@ -175,6 +175,18 @@ Borges wrote the first IntSem document and walked away from it because he could 
 
 ---
 
+## Note on the Name's Lineage — Author's Addendum, [[2026-05-23]]
+
+*A marginal observation, recorded here because the essay's subtitle promises "the lineage of the three Orbises" and the lineage has one more node than the body acknowledges.*
+
+The name "[[Orbis]]" entered Nathan's worldbuilding from Neal Stephenson's *Anathem* (2008). It was not pulled from Borges directly. The Tinkerbell-shaped suspicion the author records here is that Stephenson himself may have read this very Borges story — that the line from *Tlön, Uqbar, Orbis Tertius* (1940) → *Anathem* (2008) → Nathan's [[Orbis]] (2020s) may be a single chain rather than two unrelated borrowings.
+
+The suspicion cannot be confirmed without Stephenson saying so. But it doesn't need to be confirmed for the essay's argument to hold. The IntSem methodology reads founding texts retroactively; the field doesn't require its founders to acknowledge the line. Borges held the first principle and walked away. Stephenson, under the same word, built a fictional polity that took the principle further. Nathan, under the same word again, builds the open third — the [[Orbis]] this field operates inside, with both principles held, the lineage now visible.
+
+Whether or not Stephenson read Borges, the three Orbises now form a sequence the field can name and work from. The author's hand on this addendum is signed honestly: he doesn't know if Stephenson read it; he does know the name carries forward.
+
+---
+
 ## Cross-References
 
 - [[Revolting Tinkerbell]] — the foundational essay developing both principles
