@@ -3,7 +3,7 @@ title: "Tlön, Uqbar, Orbis: The First IntSem Document"
 subtitle: "Reading Borges's 1940 Story as the Field's Unrecognized Founding Text — and the Lineage of the Three Orbises"
 type: "[[Essay]]"
 domain: "[[The Commons]]"
-Lifestage: "🌱 Seed"
+Lifestage: "🌳 Tree"
 status: drafted
 tags:
   - interdimensional-semiotics
