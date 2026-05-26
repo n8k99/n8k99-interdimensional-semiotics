@@ -14,9 +14,9 @@ tags: [interdimensional-semiotics]
 
 | Status | Count |
 |--------|-------|
-| ✅ Have (converted to markdown) | 19 |
+| ✅ Have (converted to markdown) | 20 |
 | ⬜ Need to acquire | 24 |
-| **Total** | **43** |
+| **Total** | **44** |
 
 ---
 
@@ -205,6 +205,17 @@ This reading list represents the "pie-eating contest" - the multi-year intellect
   - [[Gilbert Lynch - Brewers Conjecture and the CAP Theorem|📖 Markdown]]
   - [PDF (CMU)](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   - *The [[CAP Theorem]]: any distributed system must choose at most two of Consistency, Availability, and [[Partition Tolerance|Partition tolerance]]. Models the fundamental tradeoffs in cross-dimensional meaning preservation.*
+
+---
+
+## Supplement: Technology, the Human Person, and the Posthuman Question
+
+### Magisterial / Primary Sources
+
+- ✅ **Magnifica Humanitas** — Pope Leo XIV (2026)
+  - [[Leo XIV - Magnifica Humanitas|📖 Markdown]]
+  - [vatican.va](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+  - *Encyclical on safeguarding the human person in the time of artificial intelligence. Names and critiques the technocratic paradigm, [[Transhumanism|transhumanism]], and [[Posthumanism|posthumanism]]; argues for the irreducible grandeur of the human person against its dissolution into substrate. A primary-source counterweight on the meaning-and-identity-across-substrates question — read as a [[Tinkerbell Rule|Tinkerbell specimen]], evidence of a form of life, not a governing text.*
 
 ---
 
