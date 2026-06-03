@@ -36,18 +36,18 @@ Interpreting history in the light of faith
 
 **CHAPTER TWO — FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH**
 
-The foundations of Social Doctrine  
-The human person: image of the Triune God  
-The equal dignity of all human beings  
-The supreme value of human rights  
-The principles of Social Doctrine  
-The principle of the common good  
-The principle of the universal destination of goods  
-The principle of subsidiarity  
-The principle of solidarity  
-The principle of social justice  
-Integral human development  
-An examen for the Church
+- The foundations of Social Doctrine  
+- The human person: image of the Triune God  
+- The equal dignity of all human beings  
+- The supreme value of human rights  
+- The principles of Social Doctrine  
+- The principle of the common good  
+- The principle of the universal destination of goods  
+- The principle of subsidiarity  
+- The principle of solidarity  
+- The principle of social justice  
+- Integral human development  
+- An examen for the Church
 
 **CHAPTER THREE**
 
