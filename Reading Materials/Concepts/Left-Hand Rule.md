@@ -89,3 +89,4 @@ A design that violates the Left-Hand Rule will work, but it will produce a degen
 - [[Consensus]] — not required between axes; the substrate records both
 - [[Partition Tolerance]] — the axes must function when the other is unavailable
 - [[Strange Loop]] — emerges when InnateScript choreographies modify the substrate that the tick engine reads, which triggers choreographies that modify the substrate
+- [[Interdimensional Semiotics]] — the field whose substrate-level architecture the rule constrains

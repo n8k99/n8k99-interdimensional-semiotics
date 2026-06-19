@@ -38,3 +38,4 @@ Latent learning is the empirical-experimental backing for the field's claim that
 - [[Biological Memory]] — the carrier in which latency persists
 - [[Substrate Materialization]] — the forward operation that lays the substrate
 - [[Authorship]] — the operation that depends on accumulated latent substrate
+- [[Interdimensional Semiotics]] — the field whose substrate-then-activation arc latent learning empirically backs

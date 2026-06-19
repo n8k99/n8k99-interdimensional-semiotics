@@ -49,3 +49,4 @@ The concept connects directly to semiotic gravitational mass. A sign with high s
 - [[Representation]]
 - [[Strange Loop]]
 - [[Emergence]]
+- [[Interdimensional Semiotics]]

@@ -37,3 +37,4 @@ Gestalt restructuring provides the psychological literature on the *moment* of b
 - [[Bridge Activation]] — the IntSem name for the mechanism, with the retrospective + biographical emphasis
 - [[Transubstantiation]] — the register-shift that follows the restructuring
 - [[Biological Memory]] — the substrate in which the restructuring happens
+- [[Interdimensional Semiotics]] — the field that reads restructuring as bridge-activation firing

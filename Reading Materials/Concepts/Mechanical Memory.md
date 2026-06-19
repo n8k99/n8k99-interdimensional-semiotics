@@ -98,3 +98,4 @@ The field treats agents as collaborators with specific capabilities and specific
 - [[Transubstantiating Dreamtime and Real-Time]] — parent essay
 - [[The Outboard Cortex]] — Kurzweil's hierarchical memory read through this distinction
 - [[The Engineered Antiderivative]] — the construction of working systems atop mechanical memory
+- [[Interdimensional Semiotics]] — the field for which mechanical memory is the amplification (not authorship) substrate

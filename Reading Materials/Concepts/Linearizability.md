@@ -35,3 +35,4 @@ Linearizability is the condition where all observers agree on the same sequence 
 - [[Delayed-t Consistency]]
 - [[Common Knowledge]]
 - [[Consensus]]
+- [[Interdimensional Semiotics]]

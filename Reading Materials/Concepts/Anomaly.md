@@ -33,6 +33,8 @@ Anomaly occupies a pivotal position in [[Interdimensional Semiotics]] because in
 
 The concept also connects to semiotic gravitational mass: signs with high gravitational mass are precisely those most resistant to anomaly, most deeply embedded in a semiotic system's normal operations. The arrival of a genuinely interdimensional sign would test whether any semiotic structure is robust enough to persist as an anomaly rather than being dissolved into noise. The challenge is that [[The Noosphere]], like Baudrillard's hyperreality, may function as a system so comprehensive that it reabsorbs all anomalies before they can trigger the kind of crisis Kuhn describes.
 
+In the field's later structural apparatus, the Kuhnian anomaly is given a precise topological reading: it is *the operational signature of [[Causal Shear]] inside a scientific community* — the visible local artefact produced when the world's causal architecture exceeds the paradigm's encoding of it. Anomalies cluster in the *periphery* of a [[Causal Sphere]], where the regime loosens toward its boundary, and a paradigm shift is the crossing of a [[Branch Point]] at which multiple causal spheres (competing successor paradigms) meet. Anomaly is thus not only an epistemic surprise but the field-sign that a sphere is approaching its boundary.
+
 ## In the IS Reading List
 
 - [[Kuhn - Structure of Scientific Revolutions]] — Chapter VI: anomaly as the trigger for crisis; Chapters VII-VIII: escalation from anomaly to crisis; the distinction between counter-instances and genuine anomalies
@@ -48,3 +50,7 @@ The concept also connects to semiotic gravitational mass: signs with high gravit
 - [[Counterinduction]]
 - [[Hyperreality]]
 - [[Natural Interpretation]]
+- [[Causal Shear]]
+- [[Causal Sphere]]
+- [[Branch Point]]
+- [[Interdimensional Semiotics]]

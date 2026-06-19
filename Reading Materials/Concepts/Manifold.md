@@ -42,6 +42,7 @@ The manifold is arguably the central structural metaphor of [[Interdimensional S
 ## Related
 
 - [[Homeomorphism]]
+- [[Homotopy]]
 - [[Topological Invariant]]
 - [[Connectedness]]
 - [[Riemann Surface]]

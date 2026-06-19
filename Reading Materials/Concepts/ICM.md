@@ -51,3 +51,4 @@ The fractal structure of ICMs (individual to civilizational) also connects to th
 - [[Paradigm]]
 - [[Conceptual Metaphor]]
 - [[Metonymy]]
+- [[Interdimensional Semiotics]]

@@ -64,6 +64,8 @@ For [[Phase Portraits|phase-portrait analysis]] and stability theory, the Jacobi
 - [[Vector Space]]
 - [[Manifold]]
 - [[Monodromy]]
+- [[Branch Point]]
+- [[Sheet]]
 - [[Hamiltonian Systems]]
 - [[Phase Portraits]]
 - [[Orthonormal Tangent Vectors]]

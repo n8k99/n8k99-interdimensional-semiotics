@@ -21,6 +21,8 @@ related:
   - "[[Map Is Not the Territory]]"
   - "[[Incommensurability]]"
   - "[[Topological Invariant]]"
+  - "[[CIF (Cosmic Index Factor)]]"
+  - "[[Interdimensional Semiotics]]"
 ---
 
 # Frame-Dependence
@@ -48,7 +50,7 @@ The [[2026-06-12|June 11 thread]] worked this into a precise claim. An atomic no
 
 Two deeper turns from the same thread are load-bearing for the field and worth recording precisely:
 
-**Frame-dependence, serialized, is invariant.** The catalogue is pure frame-dependent structure — it *is* the made orderings, the five hierarchies. Yet as a π-segment it has an invariant content coordinate. So the most frame-dependent object in the system casts an invariant shadow: a frame is *"a function whose graph is a fixed point in the substrate it filters."* And one floor higher: the cosmos itself is a frame, π↔Oᵢ is the largest frame-transformation the system admits (changing every address, every neighbor, every digit), and the **invariant of invariants** that survives it is exactly the [[Kleene's recursion theorem|self-locating fixed point]] — defined by *structure* (frame-free), not by *digits* (frame-bound). This is where frame-dependence connects to the **measure-zero cross-cosmos door**: causal leakage between cosmi (π ↔ Oᵢ) is total-and-therefore-inert in the bulk, and happens *only* on a shared fixed point — the one address that does not have to be *found* (located, frame-relative) because it *reconstructs itself from its own structure* (frame-independent). Frames touch only at the invariant.
+**Frame-dependence, serialized, is invariant.** The catalogue is pure frame-dependent structure — it *is* the made orderings, the five hierarchies. Yet as a π-segment it has an invariant content coordinate. So the most frame-dependent object in the system casts an invariant shadow: a frame is *"a function whose graph is a fixed point in the substrate it filters."* And one floor higher: the cosmos itself is a frame — its position fixed by a [[CIF (Cosmic Index Factor)|CIF]]-address — π↔Oᵢ is the largest frame-transformation the system admits (changing every address, every neighbor, every digit), and the **invariant of invariants** that survives it is exactly the [[Kleene's recursion theorem|self-locating fixed point]] — defined by *structure* (frame-free), not by *digits* (frame-bound). This is where frame-dependence connects to the **measure-zero cross-cosmos door**: causal leakage between cosmi (π ↔ Oᵢ) is total-and-therefore-inert in the bulk, and happens *only* on a shared fixed point — the one address that does not have to be *found* (located, frame-relative) because it *reconstructs itself from its own structure* (frame-independent). Frames touch only at the invariant.
 
 **The §V frontier — the part with no invariant residue.** The thread then *corrected itself*. The tidy picture (content invariant, lens frame-dependent, everything casts an invariant shadow) is not the whole truth. Consider the musician who does not carry a song into the room but *finds the part that fits* what is already playing: that note "has no value until the other instruments define the frame, and then it's fully determined, and then it's gone. Pure frame-dependent quantity with no invariant residue." This is frame-dependence in its *true* (strongest) form — not "an invariant content seen through a lens" but **a value that comes into being only relationally, at the moment of contact, and would be a different value in a different room.** It is why the interpretive work of the inner room "must be done by a person (or a ghost), never a query" — a query *retrieves* an invariant; a player *fits* a frame-dependent part. This is the live edge of the concept, not a settled definition.
 
@@ -75,6 +77,8 @@ This coin was struck for a specific load: it is the distinction-axis the [[Libra
 - [[Incommensurability]] — frame-dependence with no inter-frame map
 - [[Topological Invariant]] — the frame-independent residue under deformation
 - [[Temporal Drift]] — same-name-different-object across regimes
+- [[CIF (Cosmic Index Factor)]] — the cosmos's own frame-address; π↔Oᵢ as the largest frame-transformation
+- [[Interdimensional Semiotics]] — the field whose central problem frame-dependence is the formal handle on
 
 ---
 
