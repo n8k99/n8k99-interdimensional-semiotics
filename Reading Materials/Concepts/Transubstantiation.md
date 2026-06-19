@@ -96,5 +96,5 @@ The field's name for the cycle is *salt practice*. Salt — 🜔, the field's si
 - [[Reality is What is Left]] — the residue test that distinguishes substance from accident
 - [[Substrate]] — the medium across which the shift occurs
 - [[Biological Memory]] — the carrier of the prior substrate
-- [[Hrönir]] — Borges's literalization of substrate materialization, a sibling operation
+- [[Hrönir]] — [[Borges]]'s literalization of substrate materialization, a sibling operation
 - [[Transubstantiating Dreamtime and Real-Time]] — parent essay
