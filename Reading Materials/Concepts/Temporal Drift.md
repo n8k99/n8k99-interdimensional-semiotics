@@ -12,6 +12,7 @@ related:
   - "[[Symbolic Dissonance]]"
   - "[[Naturalization]]"
   - "[[Lindy Effect]]"
+  - "[[frame-dependence]]"
 tags:
   - interdimensional-semiotics
   - concept
