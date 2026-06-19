@@ -29,7 +29,7 @@ Where Gadamer focuses on the encounter-with-text and the dialogic restructuring,
 
 ## Significance for IS
 
-Fusion of Horizons captures what happens when [[Substrate Materialization|materialized substrate]] encounters a bridge text. The corpus's reading practice — Borges, Barthes, Benjamin, Whitehead — is hermeneutic in Gadamer's sense: the encounter restructures both reader and text. The field uses Gadamer's vocabulary when discussing the *encounter* face of bridge activation specifically.
+Fusion of Horizons captures what happens when [[Substrate Materialization|materialized substrate]] encounters a bridge text. The corpus's reading practice — [[Borges]], Barthes, Benjamin, Whitehead — is hermeneutic in Gadamer's sense: the encounter restructures both reader and text. The field uses Gadamer's vocabulary when discussing the *encounter* face of bridge activation specifically.
 
 ## Related
 
