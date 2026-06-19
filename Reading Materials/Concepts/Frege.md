@@ -20,6 +20,7 @@ related:
   - "[[frame-dependence]]"
   - "[[Self-Reference]]"
   - "[[Interdimensional Semiotics]]"
+  - "[[Quintessence]]"
 created: 2026-06-19
 updated: 2026-06-19
 aliases:
@@ -147,6 +148,14 @@ It has **not** yet heard the primary text (*Der Gedanke*, *Die Grundlagen der Ar
   housed the timeless thoughts.
 - [[Interdimensional Semiotics]] — the field Frege enters as theory-kin: his third realm is
   the frame-independent (entailed-not-imagined) pole of the [[Library of Libraries]] theory.
+- [[Quintessence]] — the alchemical name for the same shape. On the [[The Alchemical Table of
+  Symbols|Alchemical Table]], the quintessence is the *cross-sheet invariant* — the fifth element
+  beyond the four substrate-states, the timeless form that holds across every cosmos ("π is π in
+  any cosmos"). Frege's third realm *is* that invariant read philosophically: a Gedanke is true
+  in any frame, grasped not created, the *prima materia* of meaning that crossing a [[Branch
+  Point]] carries through unchanged. Genuine and narrow — Frege supplies the metaphysics of the
+  invariant, not the operations that transmute around it; the link is to the quintessence as
+  *eternal form*, not to the Table's twelve operations.
 
 ## Staleness — `status:` + `state_reason:`
 

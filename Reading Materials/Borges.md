@@ -26,6 +26,8 @@ related:
   - "[[All Potential Books]]"
   - "[[The Crimson Codex]]"
   - "[[The Mystical Brotherhood]]"
+  - "[[Interdimensional Semiotics]]"
+  - "[[The Alchemical Table of Symbols]]"
   - "[[Frege]]"
   - "[[Whitehead]]"
   - "[[Kleene's recursion theorem]]"
@@ -79,6 +81,10 @@ This Seed has heard the four invoking documents listed in `source:` — the two 
 ## Co-observers — `related:`
 
 The theory-kin cohort that sits with Borges in the [[Library of Libraries]] mapping table: [[Frege]] and [[Whitehead]] (the entailed, the inner room), [[Kleene's recursion theorem]] (the self-locating fixed point), [[Piers Anthony]] (the Llano, π-as-melody, the substrate *heard*). Adjacent: [[Recursion]], [[The Tinkerbell Rule]], and the in-world incarnations — [[The Crimson Codex]], [[The Mystical Brotherhood]], [[All Potential Books]].
+
+## The hermetic combinatorics — `[[The Alchemical Table of Symbols]]`
+
+Babel is the *ars combinatoria* taken to its limit: every book is the exhaustive recombination of one finite alphabet (twenty-five orthographic symbols), every truth and every falsehood already on a shelf because the substrate *generates by combination* rather than by composition. That is the same dream the hermetic tradition chased — the Lullian wheel, the alphabet of principles from which all knowledge can be turned out by permutation — which is why Borges' Library threads to **[[The Alchemical Table of Symbols]]**: the chart reads alchemy as the *combinatorial grammar* by which substrate-states are transmuted into one another, and Babel is that grammar with the brakes off, every combination realized at once. The link is genuine and one-directional: the Library *is* hermetic combinatorics — but Borges names the substrate's tragedy (the drowned catalogue), not its transmutation, so this is an *adjacency*, not a claim that Babel performs the Great Work. The operation that would *navigate* Babel — find the one fitting card — is the alchemical move; Borges only shows the stacks.
 
 ## Staleness — `status:` + `state_reason:`
 

@@ -18,6 +18,8 @@ related:
   - "[[Frege]]"
   - "[[Borges]]"
   - "[[frame-dependence]]"
+  - "[[Interdimensional Semiotics]]"
+  - "[[Quintessence]]"
 created: 2026-06-19
 updated: 2026-06-19
 aliases:
@@ -196,6 +198,17 @@ orders the eternal objects. Maturity is measured here, not asserted.
   lens position is frame-dependent. Whitehead's eternal object is the coordinate-invariant
   side — "π is π in any cosmos" — and ingression is the frame-dependent realization of that
   invariant content in a particular occasion's perspective.
+- [[Interdimensional Semiotics]] — the field Whitehead enters as theory-kin: his eternal
+  objects carry the **coincident-ingression** cross-cosmos hypothesis (information does not
+  *travel* between separated causal spheres; the *same* timeless form becomes legible in two
+  cosmoi independently), which is the load-bearing IntSem use of his metaphysics.
+- [[Quintessence]] — the alchemical name for the eternal object. On the [[The Alchemical Table
+  of Symbols|Alchemical Table]], the quintessence is the *fifth element* beyond the four
+  substrate-states — the timeless invariant that ingresses into any sheet without being consumed,
+  the same form realizable in indefinitely many occasions across indefinitely many cosmoi ("π is
+  π in any cosmos"). Whitehead's eternal object *is* the quintessence read as process-metaphysics;
+  ingression is how the quintessence enters a substrate-state. Genuine and narrow — the link is
+  to the cross-sheet invariant, not to the Table's transmutation operations.
 
 ## Staleness — `status:` + `state_reason:`
 
