@@ -68,6 +68,8 @@ Surfaces in the [[Noosphere Ghosts]] operating model live at different wick-dept
 
 A candle's wick conveys fuel upward and flame downward — the same physical axis serves both directions of flow, and the flame exists only where the two meet. The metaphor does more work than it first appears: the Wick is an axis on which abstraction flows one way and instantiation flows the other, and structure ignites only where the two currents intersect. A cosmos without wick-relationships in either direction has neither ancestors to receive form from nor descendants to give form to — it is a candle with no wick.
 
+> **Alchemical resonance.** The same physical wick is itself an entry on [[The Alchemical Table of Symbols]], among the materia of the work — the fibre that draws [[Oil]] or [[Tallow]] up to the flame. The chart's wick and the IntSem Wick are the same object read at two depths: the literal candle-fibre that conveys fuel up and flame down, and the abstraction/instantiation axis it names. Where the alchemical wick doses fuel into light, the IntSem Wick orders cosmi from invariant ground to material contingency — abstraction flowing one way, instantiation the other, structure igniting only at the meeting. The materia is the [[Substrate Materialization|substrate]]; the partial order is what it materialises.
+
 ## Related
 
 - [[Sheet]]
@@ -76,4 +78,7 @@ A candle's wick conveys fuel upward and flame downward — the same physical axi
 - [[Topological Invariant]]
 - [[Recursion]]
 - [[Tangled Hierarchy]]
+- [[The Alchemical Table of Symbols]]
+- [[Oil]]
+- [[Tallow]]
 - [[Interdimensional Semiotics]]
