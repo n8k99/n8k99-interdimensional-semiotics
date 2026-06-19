@@ -177,7 +177,7 @@ Borges wrote the first IntSem document and walked away from it because he could 
 
 ## Note on the Name's Lineage — Author's Addendum, [[2026-05-23]]
 
-*A marginal observation, recorded here because the essay's subtitle promises "the lineage of the three Orbises" and the lineage has one more node than the body acknowledges.*
+*A marginal [[Observant|observation]], recorded here because the essay's subtitle promises "the lineage of the three Orbises" and the lineage has one more node than the body acknowledges.*
 
 The name "[[Orbis]]" entered Nathan's worldbuilding from Neal Stephenson's *Anathem* (2008). It was not pulled from Borges directly. The Tinkerbell-shaped suspicion the author records here is that Stephenson himself may have read this very Borges story — that the line from *Tlön, Uqbar, Orbis Tertius* (1940) → *Anathem* (2008) → Nathan's [[Orbis]] (2020s) may be a single chain rather than two unrelated borrowings.
 

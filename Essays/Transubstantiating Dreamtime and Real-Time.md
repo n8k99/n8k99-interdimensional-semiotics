@@ -229,7 +229,7 @@ The water is still water. The wine is still wine. They have always been both, on
 - [[Cosmological Substrate and the Failed Test of General Everything Theory]] — the Penrose/Kaku reading; same substrate metaphysics, applied to physics rather than to a dream
 - [[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]] — biographical-scale reading of theory through lived event; precedent for the present essay's autobiographical register
 - [[The Engineered Antiderivative]] — the calculus-of-substrate-construction; analogous mechanical move
-- [[Notes Toward a Dyadic Extension of the Cornerstone]] — the observational-study form applied to a single subject; precedent for treating biography as field data
+- [[Notes Toward a Dyadic Extension of the Cornerstone]] — the [[Observant|observational]]-study form applied to a single subject; precedent for treating biography as field data
 - [[Barthes - Mythologies]] — the bridge-text itself; *The World of Wrestling* is the load-bearing 1952 essay
 - [[The Tinkerbell Rule]] — the first IntSem principle; *concepts exist as long as they are collectively honored*
 - [[Reality is What is Left]] — the second IntSem principle; *the substrate is what remains after the Tinkerbells are subtracted*
