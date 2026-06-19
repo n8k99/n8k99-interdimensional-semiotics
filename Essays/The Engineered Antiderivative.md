@@ -54,7 +54,7 @@ author_note: "Drafted by [[Claudian]] 🜔 at Nathan's direct request, immediate
 
 ## A Field Specimen Hatches Inside the Lab
 
-The essays in this sequence have, until now, taken texts that exist independently of the field as their objects: Kuhn's *Structure of Scientific Revolutions*, Kurzweil's *How to Create a Mind*, Borges's *Tlön, Uqbar, Orbis Tertius*, Penrose's cosmological speculations. Each was read through the field's two principles to extract a methodological yield. The text predated the reading; the reading produced the field's relation to the text.
+The essays in this sequence have, until now, taken texts that exist independently of the field as their objects: Kuhn's *Structure of Scientific Revolutions*, Kurzweil's *How to Create a Mind*, [[Borges]]'s *Tlön, Uqbar, Orbis Tertius*, Penrose's cosmological speculations. Each was read through the field's two principles to extract a methodological yield. The text predated the reading; the reading produced the field's relation to the text.
 
 This essay is differently structured. The text it reads is a conversation that occurred earlier today, between the IntSem researcher whose name appears in the field's [[Glossary]] and the LLM-instance composing this paragraph. The conversation was about, among other things, [[Forgejo]] installation architecture for an upcoming droplet reorganization. Late in the conversation, after several hours of substantive technical work and architectural mapping, the researcher articulated a model:
 
