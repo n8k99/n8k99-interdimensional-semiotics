@@ -1,6 +1,6 @@
 # Chapter II
 ## SUBJECT MATTER AND SCOPE OF LINGUISTICS; ITS RELATIONS WITH OTHER SCIENCES
-The subject matter of linguistics comprises all manifestations of human speech, whether that of savages or civilized nations, or of archaic, classical or decadent periods. In each period the linguist must consider not only correct speech and flowery language, but all other forms of expression as well. And that is not all: since he is often unable to observe speech directly, he must consider written texts, for only through them can he reach idioms that are remote
+The subject matter of linguistics comprises all manifestations of human speech, whether that of savages or civilized nations, or of archaic, classical or decadent periods. In each period the linguist must consider not only correct speech and flowery language, but all other forms of expression as well. And that is not all: since he is often unable to [[Observant|observe]] speech directly, he must consider written texts, for only through them can he reach idioms that are remote
 in time or space.
 The scope of linguistics should be:
 - a) to describe and trace the history of all observable languages, which amounts to tracing the history of families of languages and reconstructing as far as possible the mother language of each family;

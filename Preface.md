@@ -50,7 +50,7 @@ as a reference book, because few of the results are presented in their most
 general or most complete form.
 Perhaps the best way to summarize what this book is would be to say
 that it represents, to a good approximation, my conception of the ideal
-amount of topological knowledge that should be possessed by beginning
+amount of topological [[Knowledgeable|knowledge]] that should be possessed by beginning
 graduate students who are planning to go on to study smooth manifolds
 and differential geometry. Experienced mathematicians will probably ob-
 servethatmychoicesofmaterialandapproachhavebeeninfluencedbythe
@@ -88,7 +88,7 @@ should be relatively straightforward for anyone who has had the prerequi-
 site courses, can be used by the student to refresh his or her knowledge, or
 can be assigned by the instructor at the beginning of the course to make
 sure that everyone starts with the same background.
-Organization. The book is divided into thirteen chapters, which can be
+[[Organized|Organization]]. The book is divided into thirteen chapters, which can be
 grouped into an introduction and five major substantive sections.
 The introduction (Chapter 1) is meant to whet the student’s appetite
 and create a “big picture” into which the many details can later fit.

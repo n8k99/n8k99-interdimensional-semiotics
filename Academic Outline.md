@@ -52,7 +52,7 @@ tags:
 
 ## Notes on the Outline's Place in the Field
 
-This outline pre-dates the development of the field's two foundational principles ([[The Tinkerbell Rule]] and [[Reality is What is Left]]) by approximately one year. The principles re-organized the field around the substrate-vs-collective-honoring distinction, which subsumes most of what this outline names while remaining compatible with it.
+This outline pre-dates the development of the field's two foundational principles ([[The Tinkerbell Rule]] and [[Reality is What is Left]]) by approximately one year. The principles [[Organized|re-organized]] the field around the substrate-vs-collective-honoring distinction, which subsumes most of what this outline names while remaining compatible with it.
 
 The outline's framing — *transdimensional translation, multiverse cosmology, cosmic phase shifts* — is the field's **CIF-era framing**, focused on cross-cosmological meaning-persistence. The field has since extended to study substrate-vs-honoring dynamics at smaller scales: paradigms (see [[Revolting Tinkerbell]]), cognitive substrates (see [[The Outboard Cortex]]), intellectual reception conditions (see [[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]).
 
