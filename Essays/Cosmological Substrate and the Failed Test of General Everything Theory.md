@@ -426,6 +426,7 @@ We watch.
 - [[Causal Shear]] — discontinuity at sphere boundaries; quantum-classical surface as standing shear; AI distribution-shift as operationalized shear
 - [[Symbolic Dissonance]] — shared signifiers, divergent signifieds; the *liberal*, *queer*, *democracy*, *AI* worked examples
 - [[Temporal Drift]] — slow within-substrate mutation; the *atom*, *love*, *due process*, *species* worked examples
+- [[frame-dependence]] — the axis the failure-modes ride: a quantity (or a civilizational *frame of reference*) whose value is fixed only relative to a frame; the invariant-vs-frame-dependent sort that distinguishes what survives substrate-transition from what does not
 - [[Semiotic Resilience]] — what survives substrate-transition; topological-invariant, homotopy, attractor-basin formalisms
 - [[Identity Mutation]] — identity-bearing case of resilience; Parfit reductionism extended
 
