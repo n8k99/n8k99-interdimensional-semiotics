@@ -48,3 +48,4 @@ The concept bears directly on [[The Noosphere]] and the question of [[connectome
 - [[Natural Interpretation]]
 - [[Proliferation]]
 - [[Implosion]]
+- [[Interdimensional Semiotics]]

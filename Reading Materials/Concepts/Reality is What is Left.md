@@ -91,3 +91,5 @@ The concept is also what gives IntSem traction against phenomena like Kuhnian pa
 - [[Anomaly]] — the reality residue against a paradigm
 - [[Paradigm]]
 - [[Phase Transition]] — related concept for when accumulated pressure forces structural change
+- [[The Four Orders of Pattern]] — the other core piece of the field's foundational apparatus
+- [[Interdimensional Semiotics]] — the field these two principles bound

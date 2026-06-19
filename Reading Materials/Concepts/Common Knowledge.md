@@ -45,3 +45,4 @@ For InnateScript, the implications are direct. A `join` barrier in a choreograph
 - [[Incompleteness]]
 - [[Recursion]]
 - [[Strange Loop]]
+- [[Interdimensional Semiotics]]

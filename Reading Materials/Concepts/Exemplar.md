@@ -49,3 +49,4 @@ This connects to the IS concept of semiotic gravitational mass. An exemplar's ma
 - [[Family Resemblance]]
 - [[Pattern Recognition]]
 - [[Isomorphism]]
+- [[Interdimensional Semiotics]]

@@ -41,6 +41,9 @@ For [[Interdimensional Semiotics]], symmetry breaking provides a model for how t
 
 - [[Unified Field Theory]]
 - [[Phase Transition]]
+- [[Branch Point]] — symmetry breaking is the choice of sheet at a branch point; the symmetric pre-transition state becomes inaccessible from the post-transition trajectory
+- [[Pentagonal Harmonic (IntSem)]] — pentagonal-harmonic configurations are stabilized against the symmetry-breaking failure mode by five-fold redundancy
+- [[Symmetry]]
 - [[Isomorphism]]
 - [[Scientific Revolution]]
 - [[Episteme]]

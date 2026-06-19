@@ -47,3 +47,4 @@ The concept connects to [[The Noosphere]] and the question of substrate-independ
 - [[Natural Interpretation]]
 - [[Implosion]]
 - [[Incommensurability]]
+- [[Interdimensional Semiotics]]

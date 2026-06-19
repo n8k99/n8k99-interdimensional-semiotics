@@ -50,3 +50,4 @@ The concept connects to [[AnthropomorphicFrameworks]] as a warning: the assumpti
 - [[Prototype]]
 - [[Source Domain]]
 - [[AnthropomorphicFrameworks]]
+- [[Interdimensional Semiotics]]

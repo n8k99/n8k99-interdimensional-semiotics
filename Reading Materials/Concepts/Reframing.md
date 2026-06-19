@@ -38,3 +38,4 @@ Reframing is the clinical proof-of-concept that bridge activation can be cultiva
 - [[Biological Memory]] — the substrate the reframe operates against
 - [[Mechanical Memory]] — the asymmetric agent surface; bridge-provider, not bridge-activator
 - [[The Tinkerbell Rule]] — the principle that frames hold reality together
+- [[Interdimensional Semiotics]] — the field that reads reframing as the clinical applied case of Bridge Activation

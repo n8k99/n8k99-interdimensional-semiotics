@@ -37,3 +37,4 @@ Fusion of Horizons captures what happens when [[Substrate Materialization|materi
 - [[Substrate Materialization]] — the forward operation that lays the substrate against which fusion happens
 - [[Biological Memory]] — the carrier of the prior horizon
 - [[Authorship]] — the wider operation Gadamer's fusion participates in
+- [[Interdimensional Semiotics]] — the field that reads fusion-of-horizons as the strongest prior-art match for bridge activation

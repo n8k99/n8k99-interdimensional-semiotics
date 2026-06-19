@@ -45,3 +45,4 @@ For InnateScript, consensus is operationalized through the `join` primitive, whi
 - [[Self-Organizing Systems]]
 - [[Emergence]]
 - [[Incompleteness]]
+- [[Interdimensional Semiotics]]

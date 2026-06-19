@@ -45,3 +45,4 @@ The concept connects to [[The Noosphere]] and the question of semiotic gravitati
 - [[Scientific Revolution]]
 - [[Proliferation]]
 - [[Normal Science]]
+- [[Interdimensional Semiotics]]

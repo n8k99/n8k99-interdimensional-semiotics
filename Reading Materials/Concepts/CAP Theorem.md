@@ -48,3 +48,4 @@ The CAP theorem also clarifies the role of InnateScript's verification mechanism
 - [[Incompleteness]]
 - [[Formal System]]
 - [[Phase Transition]]
+- [[Interdimensional Semiotics]]

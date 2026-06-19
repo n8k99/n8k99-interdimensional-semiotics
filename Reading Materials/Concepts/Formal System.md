@@ -49,3 +49,4 @@ This incompleteness is not a defect but a feature from the IS perspective. It is
 - [[Recursion]]
 - [[Strange Loop]]
 - [[Emergence]]
+- [[Interdimensional Semiotics]]

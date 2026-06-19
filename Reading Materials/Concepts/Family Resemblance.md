@@ -47,3 +47,4 @@ The concept also illuminates the challenge of cross-dimensional communication. T
 - [[Paradigm]]
 - [[Exemplar]]
 - Radial Category
+- [[Interdimensional Semiotics]]

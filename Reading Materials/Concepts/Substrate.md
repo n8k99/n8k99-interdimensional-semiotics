@@ -100,3 +100,4 @@ The computational application — [[InnateScript]] as substrate-agnostic choreog
 - [[Global Stabilization Time]] — when a substrate's messaging guarantees begin to hold
 - [[Strange Loop]] — emerges in substrates capable of self-reference
 - [[Phase Transition]] — qualitative transformation of the substrate itself
+- [[Interdimensional Semiotics]] — the field whose central distinction is substrate vs Tinkerbell

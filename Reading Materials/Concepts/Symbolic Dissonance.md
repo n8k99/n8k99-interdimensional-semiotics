@@ -127,3 +127,4 @@ Still needed:
 - [[Reality is What is Left]]
 - [[The Noosphere]]
 - [[Langue]]
+- [[Interdimensional Semiotics]]

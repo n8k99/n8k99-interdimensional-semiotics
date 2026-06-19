@@ -49,3 +49,4 @@ This connects to the problem of narrative drift in [[The Noosphere]]: as meaning
 - [[Metonymy]]
 - [[Isomorphism]]
 - [[ICM]]
+- [[Interdimensional Semiotics]]

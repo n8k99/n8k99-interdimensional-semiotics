@@ -42,3 +42,4 @@ The episteme is critical for [[Interdimensional Semiotics]] because it raises th
 - [[Paradigm]]
 - [[Ideology]]
 - [[Naturalization]]
+- [[Interdimensional Semiotics]]

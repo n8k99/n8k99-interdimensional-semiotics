@@ -49,3 +49,4 @@ The concept also connects to the IS notion of semiotic gravitational mass throug
 - [[Strange Loop]]
 - [[Image Schema]]
 - [[Embodiment]]
+- [[Interdimensional Semiotics]]

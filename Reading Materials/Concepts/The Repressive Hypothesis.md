@@ -10,6 +10,8 @@ related:
   - "[[Discourse]]"
   - "[[Naturalization]]"
   - "[[Ideology]]"
+  - "[[The Tinkerbell Rule]]"
+  - "[[Interdimensional Semiotics]]"
 emerged_in:
   - "[[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]"
 reads:

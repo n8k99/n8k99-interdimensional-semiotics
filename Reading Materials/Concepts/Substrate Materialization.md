@@ -88,3 +88,4 @@ This makes the field a *demonstration* of the Tinkerbell Rule rather than a vict
 - [[Orbis Tertius]] — the secret-society *operation* of methodology-of-substrate-fabrication
 - [[Tlön, Uqbar, Orbis - The First IntSem Document]] — the founding essay where the term first surfaces in the corpus
 - [[Transubstantiating Dreamtime and Real-Time]] — recent essay developing the operation at biographical scale
+- [[Interdimensional Semiotics]] — the field whose core methodology is performing substrate materialization openly while tracking the residue

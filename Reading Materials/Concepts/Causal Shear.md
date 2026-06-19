@@ -164,3 +164,5 @@ Both describe the same underlying dynamic — *causality failing to compose acro
 - [[Topological Invariant]]
 - [[Pattern Recognition]]
 - [[Connectomes]]
+- [[Branch Point]]
+- [[Interdimensional Semiotics]]

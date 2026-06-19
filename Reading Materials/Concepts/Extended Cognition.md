@@ -51,3 +51,4 @@ This connects to the IS concept of semiotic gravitational mass through the quest
 - [[Psychological Continuity]]
 - [[The Noosphere]]
 - [[AnthropomorphicFrameworks]]
+- [[Interdimensional Semiotics]]

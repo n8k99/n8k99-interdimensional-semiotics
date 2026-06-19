@@ -49,3 +49,4 @@ This connects directly to the question of [[AnthropomorphicFrameworks]]: the ten
 - [[Natural Interpretation]]
 - [[Anomaly]]
 - [[Hyperreality]]
+- [[Interdimensional Semiotics]]

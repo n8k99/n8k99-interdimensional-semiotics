@@ -34,3 +34,4 @@ The coordinated attack is the fundamental problem of coordinated semiotic action
 - [[Partition Tolerance]]
 - [[Consensus]]
 - [[Partial Synchrony]]
+- [[Interdimensional Semiotics]]

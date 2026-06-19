@@ -45,3 +45,4 @@ For InnateScript, impossibility results inform the design of coordination primit
 - [[Partial Synchrony]]
 - [[Paradox]]
 - [[Formal System]]
+- [[Interdimensional Semiotics]]

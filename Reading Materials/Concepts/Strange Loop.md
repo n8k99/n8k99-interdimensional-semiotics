@@ -49,3 +49,4 @@ The strange loop also illuminates the relationship between [[connectomes]] and [
 - [[Tangled Hierarchy]]
 - [[Paradox]]
 - [[Incompleteness]]
+- [[Interdimensional Semiotics]]

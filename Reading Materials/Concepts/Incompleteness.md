@@ -45,3 +45,4 @@ The connection to substrate-independent meaning is equally direct. Incompletenes
 - [[Paradox]]
 - [[Recursion]]
 - [[Tangled Hierarchy]]
+- [[Interdimensional Semiotics]]

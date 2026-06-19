@@ -15,6 +15,8 @@ related:
   - "[[Discourse]]"
   - "[[Self-Reference]]"
   - "[[Naturalization]]"
+  - "[[The Tinkerbell Rule]]"
+  - "[[Interdimensional Semiotics]]"
 disambiguation: "Not to be confused with [[Panopticon]] — the Orbis Grand Epic of Eternal Observation, which borrows Foucault's name for a worldbuilding observational-mode concept. This file treats Foucault's reading of Bentham's original architectural-and-disciplinary apparatus."
 emerged_in:
   - "[[Assfucking my Ex-Wife, Baudrillard and the Deviancy of Foucault]]"

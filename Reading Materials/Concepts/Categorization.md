@@ -50,3 +50,4 @@ This connects to the IS concept of semiotic gravitational mass: a category with 
 - [[Embodiment]]
 - [[Exemplar]]
 - [[Image Schema]]
+- [[Interdimensional Semiotics]]

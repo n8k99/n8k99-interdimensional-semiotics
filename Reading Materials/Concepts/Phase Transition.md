@@ -42,6 +42,8 @@ For [[Interdimensional Semiotics]], the phase transition is the mechanism of dim
 ## Related
 
 - [[Symmetry Breaking]]
+- [[Branch Point]] — phase transitions correspond to branch-point structure: the transition point is the branch point, the stable phases are the sheets, symmetry breaking is the choice of sheet
+- [[Pentagonal Harmonic (IntSem)]] — catastrophic decay of a pentagonal-harmonic configuration is a phase transition into a state with insufficient remaining redundancy
 - [[Scale-free Network]]
 - [[Connectedness]]
 - [[Scientific Revolution]]

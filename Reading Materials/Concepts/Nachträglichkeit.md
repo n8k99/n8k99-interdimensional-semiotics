@@ -37,3 +37,4 @@ Where the field has methodology — externalization, marginalia, formative conve
 - [[Bridge Activation]] — the IntSem name for the same mechanism, generalized beyond trauma
 - [[Biological Memory]] — the substrate Nachträglichkeit operates in
 - [[Transubstantiating Dreamtime and Real-Time]] — parent essay where the mechanism is worked at biographical scale
+- [[Interdimensional Semiotics]] — the field that reads Nachträglichkeit as the strongest structural prior-art for Bridge Activation

@@ -41,3 +41,4 @@ Metalanguage is a structural prerequisite for [[Interdimensional Semiotics]] its
 - [[Strange Loop]]
 - [[Langue]]
 - [[Naturalization]]
+- [[Interdimensional Semiotics]]

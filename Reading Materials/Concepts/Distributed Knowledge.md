@@ -41,3 +41,4 @@ This maps directly to substrate-independent meaning. If meaning were fully captu
 - [[Incompleteness]]
 - [[Emergence]]
 - [[Self-Organizing Systems]]
+- [[Interdimensional Semiotics]]

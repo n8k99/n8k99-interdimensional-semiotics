@@ -19,6 +19,7 @@ related:
   - "[[Borges]]"
   - "[[frame-dependence]]"
   - "[[Self-Reference]]"
+  - "[[Interdimensional Semiotics]]"
 created: 2026-06-19
 updated: 2026-06-19
 aliases:
@@ -144,6 +145,8 @@ It has **not** yet heard the primary text (*Der Gedanke*, *Die Grundlagen der Ar
 - [[Self-Reference]] — Frege's other appearance in the IntSem reading list: the
   Russell-paradox collapse of the *Grundgesetze*, self-reference eating the system that
   housed the timeless thoughts.
+- [[Interdimensional Semiotics]] — the field Frege enters as theory-kin: his third realm is
+  the frame-independent (entailed-not-imagined) pole of the [[Library of Libraries]] theory.
 
 ## Staleness — `status:` + `state_reason:`
 

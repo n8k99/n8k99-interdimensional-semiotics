@@ -50,3 +50,4 @@ The connection to [[The Noosphere]] and [[connectomes]] is direct. The Noosphere
 - [[Tangled Hierarchy]]
 - [[Isomorphism]]
 - [[Formal System]]
+- [[Interdimensional Semiotics]]

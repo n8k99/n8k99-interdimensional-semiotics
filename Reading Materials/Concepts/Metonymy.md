@@ -43,3 +43,4 @@ Metonymy raises a distinctive question for [[Interdimensional Semiotics]]: how d
 - [[Categorization]]
 - [[Sign]]
 - [[Representation]]
+- [[Interdimensional Semiotics]]

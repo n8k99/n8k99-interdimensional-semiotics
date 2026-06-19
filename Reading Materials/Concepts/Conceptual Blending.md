@@ -36,3 +36,4 @@ Conceptual blending provides a fine-grained cognitive vocabulary for what happen
 - [[Bridge Activation]] — the IntSem name for the mechanism, with the retrospective emphasis
 - [[Transubstantiation]] — the register-shift that the blend produces
 - [[Mechanical Memory]] — agents are prolific producers of blends, often substrate-empty ones
+- [[Interdimensional Semiotics]] — the field that frames conceptual blending as prior-art for its bridge-activation operation

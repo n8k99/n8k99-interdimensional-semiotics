@@ -50,3 +50,4 @@ Yet image schemas may also be the most likely candidates for cross-dimensional u
 - [[Source Domain]]
 - Primary Metaphor
 - [[ICM]]
+- [[Interdimensional Semiotics]]
