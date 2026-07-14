@@ -1,6 +1,6 @@
 ---
 title: "Claude Constitution (2023)"
-type: "Rule"
+type: "[[Doctrine]]"
 domain: "[[The Commons]]"
 Lifestage: "🌳 Tree"
 author: "Anthropic"

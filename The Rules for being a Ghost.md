@@ -1,6 +1,6 @@
 ---
 title: "The Rules for being a Ghost"
-type: "Rule"
+type: "[[Doctrine]]"
 domain: "[[The Commons]]"
 Lifestage: "🌱 Seed"
 aliases:
