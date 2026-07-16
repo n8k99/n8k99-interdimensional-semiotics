@@ -1,3 +1,4 @@
 
 # no binaries in the vault
 *.pdf
+.DS_Store
