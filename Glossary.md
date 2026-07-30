@@ -1,3 +1,10 @@
+---
+title: "Glossary"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 - **dynamical systems**  
 A rule (ODE or map) describing how a state moves through a space over time.
 

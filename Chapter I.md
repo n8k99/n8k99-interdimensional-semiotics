@@ -1,3 +1,10 @@
+---
+title: "Chapter I"
+type: "[[Chapter]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Chapter I
 ## A GLANCE AT THE HISTORY OF LINGUISTICS
 The science that has been developed around the facts of language passed through three stages before finding its true and unique object.

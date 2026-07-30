@@ -1,3 +1,10 @@
+---
+title: "Preface"
+type: "[[Chapter]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Preface
 This book is an introduction to manifolds at the beginning graduate level.
 It contains the essential topological ideas that are needed for the further

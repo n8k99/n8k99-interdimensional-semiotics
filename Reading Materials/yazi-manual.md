@@ -1,3 +1,10 @@
+---
+title: "yazi-manual"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Yazi Manual
 
 *Snapshot of [yazi-rs.github.io](https://yazi-rs.github.io) docs at commit `59aae61`, built 2026-05-12.*

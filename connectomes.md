@@ -1,3 +1,10 @@
+---
+title: "connectomes"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Connectome
 A **connectome** is essentially the complete “wiring diagram” of a nervous system—i.e. the map of all the neurons (or neural regions) and the connections between them.  In practice you’ll see it used in two main senses:
 

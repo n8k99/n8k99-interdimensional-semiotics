@@ -1,3 +1,10 @@
+---
+title: "Tree of Satisfaction"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Tree of Satisfaction
 
 ## Tier 1: Foundations of Multiversal Engineering

@@ -1,3 +1,10 @@
+---
+title: "HEMM Space (Higher-Existence Morphogenic Manifold Space)"
+type: "[[Concept]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # HEMM Space
 A **HEMM Space** is a two-by-three array of subspaces, each of which is itself a two-by-three matrix of elemental coordinates. One of these subspaces (here chosen as $(M_{22})$) carries the **Cosmic Index Factor** ([[CIF (Cosmic Index Factor)]]), enabling universe-scale calibrations. 
 ## 1. Block Structure

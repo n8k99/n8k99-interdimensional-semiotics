@@ -1,3 +1,10 @@
+---
+title: "Chapter III"
+type: "[[Chapter]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
 # Chapter III
 ## THE OBJECT OF LINGUISTICS
 ### 1. Definition of Language
