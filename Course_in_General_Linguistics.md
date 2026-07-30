@@ -24,6 +24,7 @@ THE PHILOSOPHICAL LIBRARY, INC.
 15 EAST 40th street, new YORK CITY
 Printed in the United States of America
 title: "Course_in_General_Linguistics"
+type: "[[Reading]]"
 ---
 
 ^

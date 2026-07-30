@@ -1,5 +1,6 @@
 ---
 title: "How_to_Create_a_Mind"
+type: "[[Reading]]"
 ---
 
 More Praise for How to Create a Mind
