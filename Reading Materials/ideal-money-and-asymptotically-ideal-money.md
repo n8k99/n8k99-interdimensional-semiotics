@@ -5,6 +5,7 @@ year: 2002
 source-url: https://cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Ideal Money and Asymptotically Ideal Money

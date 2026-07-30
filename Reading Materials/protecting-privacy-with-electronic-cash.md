@@ -5,6 +5,7 @@ year: 1993
 source-url: https://cypherpunkbooks.com/book/protecting-privacy-with-electronic-cash
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Protecting Privacy with Electronic Cash

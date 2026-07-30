@@ -5,6 +5,7 @@ year: 1991
 source-url: https://cypherpunkbooks.com/book/why-i-wrote-pgp
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Why I Wrote PGP

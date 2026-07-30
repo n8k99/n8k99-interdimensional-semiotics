@@ -5,6 +5,7 @@ year: 1988
 source-url: https://cypherpunkbooks.com/book/the-crypto-anarchist-manifesto
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # The Crypto Anarchist Manifesto

@@ -5,6 +5,7 @@ year: 2001
 source-url: https://cypherpunkbooks.com/book/against-intellectual-property
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Against Intellectual Property

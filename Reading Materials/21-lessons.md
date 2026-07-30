@@ -5,6 +5,8 @@ year: 2019
 source-url: https://cypherpunkbooks.com/book/21-lessons
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+Lifestage: "🌱 Seed"
+type: "[[Reading]]"
 ---
 
 # 21 Lessons

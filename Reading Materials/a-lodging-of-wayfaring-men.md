@@ -5,6 +5,7 @@ year: 2003
 source-url: https://cypherpunkbooks.com/book/a-lodging-of-wayfaring-men
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # A Lodging of Wayfaring Men

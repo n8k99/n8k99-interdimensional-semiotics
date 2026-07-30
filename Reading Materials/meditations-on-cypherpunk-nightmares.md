@@ -5,6 +5,7 @@ year: 2014
 source-url: https://cypherpunkbooks.com/book/meditations-on-cypherpunk-nightmares
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Meditations on Cypherpunk Nightmares

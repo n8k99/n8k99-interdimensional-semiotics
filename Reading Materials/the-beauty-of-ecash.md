@@ -5,6 +5,7 @@ year: 1994
 source-url: https://cypherpunkbooks.com/book/the-beauty-of-ecash
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # The Beauty of eCash

@@ -5,6 +5,7 @@ year: 2017
 source-url: https://cypherpunkbooks.com/book/fog-of-cryptowar
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Fog of CryptoWar

@@ -5,6 +5,7 @@ year: 1996
 source-url: https://cypherpunkbooks.com/book/a-declaration-of-the-independence-of-cyberspace
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # A Declaration of the Independence of Cyberspace

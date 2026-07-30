@@ -5,6 +5,7 @@ year: 2026
 source-url: https://cypherpunkbooks.com/book/the-praxeology-of-privacy
 license-note: "recent copyrighted title — stub with link, not imported (per M03-I09)"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # The Praxeology of Privacy

@@ -5,6 +5,7 @@ year: 1994
 source-url: https://cypherpunkbooks.com/book/the-cyphernomicon
 license-note: "external-hosted text — link stub"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # The Cyphernomicon

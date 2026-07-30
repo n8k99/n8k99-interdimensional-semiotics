@@ -5,6 +5,7 @@ year: 2020
 source-url: https://cypherpunkbooks.com/book/definition-of-democratic-civilization
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Definition of Democratic Civilization

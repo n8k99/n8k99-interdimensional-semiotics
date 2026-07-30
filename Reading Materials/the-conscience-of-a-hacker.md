@@ -5,6 +5,7 @@ year: 1986
 source-url: https://cypherpunkbooks.com/book/the-conscience-of-a-hacker
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # The Conscience of a Hacker

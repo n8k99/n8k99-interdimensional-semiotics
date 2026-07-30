@@ -5,6 +5,7 @@ year: 1992
 source-url: https://cypherpunkbooks.com/book/libertaria-in-cyberspace
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Libertaria in Cyberspace

@@ -5,6 +5,7 @@ year: 2022
 source-url: https://cypherpunkbooks.com/book/of-cypherpunks-and-sousveillance
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Of Cypherpunks and Sousveillance

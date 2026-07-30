@@ -5,6 +5,7 @@ year: 2014
 source-url: https://cypherpunkbooks.com/book/measuring-freenet-in-the-wild
 license-note: "hosted openly by the Cypherpunk Library; PDF alongside"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Measuring Freenet in the Wild

@@ -5,6 +5,7 @@ year: 2025
 source-url: https://cypherpunkbooks.com/book/farewell-to-westphalia
 license-note: "recent copyrighted title — stub with link, not imported (per M03-I09)"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Farewell to Westphalia

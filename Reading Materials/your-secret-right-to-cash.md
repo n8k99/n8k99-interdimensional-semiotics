@@ -5,6 +5,7 @@ year: 2017
 source-url: https://cypherpunkbooks.com/book/your-secret-right-to-cash
 license-note: "public manifesto/essay, imported in full from the Cypherpunk Library"
 category: "Reading Materials"
+type: "[[Reading]]"
 ---
 
 # Your Secret Right to Cash
