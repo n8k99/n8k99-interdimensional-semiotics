@@ -1,4 +1,11 @@
 ---
+title: "Course in General Linguistics"
+type: "[[Reading]]"
+domain: "[[The Commons]]"
+Lifestage: "🌱 Seed"
+---
+
+---
 
 THE LIBRARY
 OF
