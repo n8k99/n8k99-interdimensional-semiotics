@@ -1,6 +1,6 @@
 ---
 title: "Laws of Software Engineering"
-type: "[[MOC]]"
+type: "[[Reference]]"
 domain: "[[The Commons]]"
 Lifestage: "🌱 Seed"
 tags:
